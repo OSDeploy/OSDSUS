@@ -1,9 +1,10 @@
-﻿#$Catalog = Import-Clixml "$PSScriptRoot\Win7\Windows 7.xml"
-$Catalog = Import-Clixml "$PSScriptRoot\Win10\Windows 10.xml"
-#$Catalog = Import-Clixml "$PSScriptRoot\Win10\Windows 10 1903.xml"
-#$Catalog = Import-Clixml "$PSScriptRoot\Server\Windows Server 2012 R2.xml"
-#$Catalog = Import-Clixml "$PSScriptRoot\Server\Windows Server 2016.xml"
-#$Catalog = Import-Clixml "$PSScriptRoot\Server\Windows Server 2019.xml"
+﻿$Catalog = @()
+$Catalog += Import-Clixml "$PSScriptRoot\Windows\Windows 10.xml"
+$Catalog += Import-Clixml "$PSScriptRoot\Windows\Windows 10 1903.xml"
+$Catalog += Import-Clixml "$PSScriptRoot\Windows\Windows Server 2016.xml"
+$Catalog += Import-Clixml "$PSScriptRoot\Windows\Windows Server 2019.xml"
+$Catalog += Import-Clixml "$PSScriptRoot\Win7\Windows 7.xml"
+$Catalog += Import-Clixml "$PSScriptRoot\Windows\Windows Server 2012 R2.xml"
 
 $CatalogErrors = @()
 $CatalogCorrections = @()

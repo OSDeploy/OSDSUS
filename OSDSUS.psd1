@@ -7,7 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '19.9.10.0'
+ModuleVersion = '19.9.11.0'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -26,6 +26,9 @@ Copyright = '(c) 2019 David Segura osdeploy.com. All rights reserved.'
 
 # Description of the functionality provided by this module
 Description = @'
+19.9.10 Initial Public Release.  Patch Tuesday.
+19.9.11 Added FileKBNumber Property.  No new Microsoft Updates.
+
 OSDSUS https://osdsus.osdeploy.com/
 
 WSUS Update Catalogs:
