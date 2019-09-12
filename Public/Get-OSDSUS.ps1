@@ -6,7 +6,7 @@ Returns an Array of Microsoft Updates
 Returns an Array of Microsoft Updates contained in the local WSUS Catalogs
 
 .LINK
-https://OSDSUS.osdeploy.com/module/functions/get-OSDSUS
+https://osdsus.osdeploy.com/module/functions/get-osdsus
 
 .PARAMETER GridView
 Displays the results in GridView with -PassThru
@@ -14,7 +14,6 @@ Displays the results in GridView with -PassThru
 .PARAMETER Silent
 Hide the Current Update Date information
 #>
-
 function Get-OSDSUS {
     [CmdletBinding()]
     PARAM (

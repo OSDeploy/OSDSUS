@@ -26,8 +26,8 @@ Copyright = '(c) 2019 David Segura osdeploy.com. All rights reserved.'
 
 # Description of the functionality provided by this module
 Description = @'
-19.9.10 Initial Public Release.  Patch Tuesday.
-19.9.11 Added FileKBNumber Property.  No new Microsoft Updates.
+19.9.11 Added FileKBNumber Property.  No new Microsoft Updates
+19.9.10 Initial Public Release.  Patch Tuesday
 
 OSDSUS https://osdsus.osdeploy.com/
 
@@ -74,7 +74,7 @@ PowerShellVersion = '5.0'
 # NestedModules = @()
 
 # Functions to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no functions to export.
-FunctionsToExport = 'Get-OSDSUS','Update-OSDSUS'
+FunctionsToExport = 'Get-OSDSUS','Get-OSDSUSFU','Update-OSDSUS'
 
 # Cmdlets to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no cmdlets to export.
 CmdletsToExport = @()
