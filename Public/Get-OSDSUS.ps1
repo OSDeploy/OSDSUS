@@ -17,28 +17,36 @@ Hide the Current Update Date information
 function Get-OSDSUS {
     [CmdletBinding()]
     PARAM (
+        [Parameter(Position = 0)]
+        [ValidateSet('Office','Windows','WindowsFU','OSDUpdate')]
+        [string]$Format,
         [switch]$GridView,
         [switch]$Silent
     )
     #===================================================================================================
+    #   Defaults
+    #===================================================================================================
+    $OSDSUSCatalogPath = "$($MyInvocation.MyCommand.Module.ModuleBase)\Catalogs"
+    $OSDSUSVersion = $($MyInvocation.MyCommand.Module.Version)
+    #===================================================================================================
+    #   UpdateCatalogs
+    #===================================================================================================
+    $OSDSUSCatalogs = Get-ChildItem -Path "$OSDSUSCatalogPath\*" -Include "*.xml" -Recurse | Select-Object -Property *
+    if ($Format -eq 'Office') {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.FullName -match "\\Office\\"}}
+    if ($Format -eq 'Windows') {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.FullName -match "\\Windows\\"}}
+    if ($Format -eq 'WindowsFU') {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.FullName -match "\\WindowsFU\\"}}
+    if ($Format -eq 'OSDUpdate') {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.FullName -notmatch "\\WindowsFU\\"}}
+    #===================================================================================================
     #   Update Information
     #===================================================================================================
-    $OSDSUSCatalogs = "$($MyInvocation.MyCommand.Module.ModuleBase)\Catalogs"
-    $OSDSUSVersion = $($MyInvocation.MyCommand.Module.Version)
-
     if (!($Silent.IsPresent)) {
-        Write-Verbose "OSDSUS $OSDSUSVersion" -Verbose
+        Write-Verbose "OSDSUS $OSDSUSVersion $Format" -Verbose
         Write-Verbose "http://osdsus.osdeploy.com/release" -Verbose
-        Write-Verbose 'Gathering Updates ...' -Verbose
     }
     #===================================================================================================
     #   Variables
     #===================================================================================================
     $OSDSUS = @()
-    #===================================================================================================
-    #   UpdateCatalogs
-    #===================================================================================================
-    $OSDSUSCatalogs = Get-ChildItem -Path "$OSDSUSCatalogs\*" -Include "*.xml" -Recurse
     #===================================================================================================
     #   Import Catalog XML Files
     #===================================================================================================
