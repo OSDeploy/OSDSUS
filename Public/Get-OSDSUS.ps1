@@ -18,7 +18,7 @@ function Get-OSDSUS {
     [CmdletBinding()]
     PARAM (
         [Parameter(Position = 0)]
-        [ValidateSet('Office','Windows','WindowsFU','OSDUpdate')]
+        [ValidateSet('Office','Windows','FeatureUpdate','OSDUpdate')]
         [string]$Format,
         [switch]$GridView,
         [switch]$Silent
@@ -28,14 +28,16 @@ function Get-OSDSUS {
     #===================================================================================================
     $OSDSUSCatalogPath = "$($MyInvocation.MyCommand.Module.ModuleBase)\Catalogs"
     $OSDSUSVersion = $($MyInvocation.MyCommand.Module.Version)
+    if (!($Format)) {$Format = 'OSDUpdate'}
     #===================================================================================================
     #   UpdateCatalogs
     #===================================================================================================
+
     $OSDSUSCatalogs = Get-ChildItem -Path "$OSDSUSCatalogPath\*" -Include "*.xml" -Recurse | Select-Object -Property *
-    if ($Format -eq 'Office') {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.FullName -match "\\Office\\"}}
-    if ($Format -eq 'Windows') {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.FullName -match "\\Windows\\"}}
-    if ($Format -eq 'WindowsFU') {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.FullName -match "\\WindowsFU\\"}}
-    if ($Format -eq 'OSDUpdate') {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.FullName -notmatch "\\WindowsFU\\"}}
+    if ($Format -eq 'Office') {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.Name -like "Office*"}}
+    if ($Format -eq 'Windows') {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.Name -like "Windows*" -and $_.Name -notmatch 'FeatureUpdate'}}
+    if ($Format -eq 'FeatureUpdate') {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.Name -match 'FeatureUpdate'}}
+    if ($Format -eq 'OSDUpdate') {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.Name -notmatch 'FeatureUpdate'}}
     #===================================================================================================
     #   Update Information
     #===================================================================================================
