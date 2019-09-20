@@ -42,8 +42,7 @@ function Get-OSDSUS {
     #   Update Information
     #===================================================================================================
     if (!($Silent.IsPresent)) {
-        Write-Verbose "OSDSUS $OSDSUSVersion $Format" -Verbose
-        Write-Verbose "http://osdsus.osdeploy.com/release" -Verbose
+        Write-Verbose "OSDSUS $OSDSUSVersion $Format http://osdsus.osdeploy.com/release" -Verbose
     }
     #===================================================================================================
     #   Variables

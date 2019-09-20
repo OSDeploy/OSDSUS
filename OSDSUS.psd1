@@ -7,7 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '19.9.12.0'
+ModuleVersion = '19.9.20.0'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -26,6 +26,8 @@ Copyright = '(c) 2019 David Segura osdeploy.com. All rights reserved.'
 
 # Description of the functionality provided by this module
 Description = @'
+19.9.20 Modified Header
+        Added Catalog for Windows Server 2019 1903
 19.9.12 New Update
 19.9.11 Added FileKBNumber Property.  No new Microsoft Updates
 19.9.10 Initial Public Release.  Patch Tuesday
