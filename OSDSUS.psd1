@@ -7,7 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '19.9.24.0'
+ModuleVersion = '19.9.24'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -29,11 +29,12 @@ Description = @'
 OSDSUS      https://osdsus.osdeploy.com/
 UPDATES:    https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
 
-19.9.24 2019-09 Cumulative Update for .NET Framework for all OS's
-19.9.20 Added Catalog for Windows Server 2019 1903
-19.9.12 New Update
-19.9.11 Added FileKBNumber Property.  No new Microsoft Updates
-19.9.10 Initial Public Release.  Patch Tuesday
+19.9.24-alpha:  Include C Release Updates
+19.9.24         2019-09 Cumulative Update for .NET Framework for all OS's
+19.9.20         Added Catalog for Windows Server 2019 1903
+19.9.12         New Update
+19.9.11         Added FileKBNumber Property.  No new Microsoft Updates
+19.9.10         Initial Public Release.  Patch Tuesday
 
 WSUS Update Catalogs:
 These are contained within this PowerShell Module, so regular Module updating is needed to
@@ -102,6 +103,7 @@ AliasesToExport = @()
 PrivateData = @{
 
     PSData = @{
+        Prerelease = '-alpha'
 
         # Tags applied to this module. These help with module discovery in online galleries.
         Tags = @('OSDeploy','OSDSUS','OSD','Update','Windows10','Office365','Office2019','Office2016','Office2013','Office2010')
