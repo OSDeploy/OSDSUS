@@ -7,7 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '19.9.24.0'
+ModuleVersion = '19.9.26'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -29,7 +29,10 @@ Description = @'
 OSDSUS      https://osdsus.osdeploy.com/
 UPDATES:    https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
 
-19.9.24 2019-09 Cumulative Update for .NET Framework for all OS's
+This release does not contain C-Release or D-Release Updates
+
+19.9.26 2019-09 Cumulative Update for .NET Framework for 1903
+19.9.24 2019-09 Cumulative Update for .NET Framework for all OS's except 1903
 19.9.20 Added Catalog for Windows Server 2019 1903
 19.9.12 New Update
 19.9.11 Added FileKBNumber Property.  No new Microsoft Updates
@@ -104,7 +107,7 @@ PrivateData = @{
     PSData = @{
 
         # Tags applied to this module. These help with module discovery in online galleries.
-        Tags = @('OSDeploy','OSDSUS','OSD','Update','Windows10','Office365','Office2019','Office2016','Office2013','Office2010')
+        Tags = @('OSD','OSDeploy','OSDSUS','Update','Windows10','Office365','Office2019','Office2016','Office2013','Office2010')
 
         # A URL to the license for this module.
         # LicenseUri = ''
