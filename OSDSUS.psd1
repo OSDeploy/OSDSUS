@@ -7,7 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '19.9.26.1'
+ModuleVersion = '19.10.3.0'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -31,6 +31,8 @@ UPDATES:    https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
 
 This release does not contain C-Release or D-Release Updates
 
+19.10.3 2019-10 Updates for all Operating Systems
+19.10.1 Office Updates
 19.9.26 SSU LCU DotNet Windows 10 1903 Windows Server 1903
 19.9.24 2019-09 Cumulative Update for .NET Framework for all OS's except 1903
 19.9.20 Added Catalog for Windows Server 2019 1903
