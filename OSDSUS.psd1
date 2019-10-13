@@ -7,7 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '19.10.8.0'
+ModuleVersion = '19.10.13.0'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -30,15 +30,10 @@ https://osdsus.osdeploy.com/
 UPDATES: https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
 
 This release does not contain C-Release or D-Release Updates
+10.10.13 Minor changes to support OSDBuilder 10.10.13
 19.10.8 2019-10 75 Updates - Patch Tuesday
 19.10.3 2019-10 Updates for all Operating Systems
 19.10.1 Office Updates
-19.9.26 SSU LCU DotNet Windows 10 1903 Windows Server 1903
-19.9.24 2019-09 Cumulative Update for .NET Framework for all OS's except 1903
-19.9.20 Added Catalog for Windows Server 2019 1903
-19.9.12 New Update
-19.9.11 Added FileKBNumber Property.  No new Microsoft Updates
-19.9.10 Initial Public Release.  Patch Tuesday
 
 WSUS Update Catalogs:
 These are contained within this PowerShell Module, so regular Module updating is needed to
@@ -115,7 +110,7 @@ PrivateData = @{
         # LicenseUri = ''
 
         # A URL to the main website for this project.
-        ProjectUri = 'https://osdsus.osdeploy.com/'
+        ProjectUri = 'https://github.com/OSDeploy/OSDSUS'
 
         # A URL to an icon representing this module.
         # IconUri = ''
