@@ -56,7 +56,10 @@ function Get-OSDSUS {
         [ValidateSet('Windows 10','Windows 7','Windows Server 2012 R2','Windows Server 2016','Windows Server 2019')]
         [string]$ByUpdateOS,
 
+        #Display the results in GridView
         [switch]$GridView,
+
+        #Don't display the Module Information
         [switch]$Silent
     )
     #===================================================================================================
