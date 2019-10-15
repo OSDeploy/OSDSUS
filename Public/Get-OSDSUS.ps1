@@ -42,19 +42,19 @@ function Get-OSDSUS {
 
         #Filter by UpdateArch Property
         [ValidateSet('x64','x86')]
-        [string]$ByUpdateArch,
+        [string]$ByArch,
 
         #Filter by UpdateBuild Property
         [ValidateSet(1507,1511,1607,1703,1709,1803,1809,1903,1909)]
-        [int]$ByUpdateBuild,
+        [int]$ByBuild,
 
         #Filter by UpdateGroup Property
         [ValidateSet('AdobeSU','DotNet','DotNetCU','LCU','Optional','SSU')]
-        [string]$ByUpdateGroup,
+        [string]$ByGroup,
 
         #Filter by UpdateOS Property
         [ValidateSet('Windows 10','Windows 7','Windows Server 2012 R2','Windows Server 2016','Windows Server 2019')]
-        [string]$ByUpdateOS,
+        [string]$ByOS,
 
         #Display the results in GridView
         [switch]$GridView,
@@ -104,10 +104,10 @@ function Get-OSDSUS {
     #   Filter
     #===================================================================================================
     if ($ByCatalog) {$OSDSUS = $OSDSUS | Where-Object {$_.Catalog -eq $ByCatalog}}
-    if ($ByUpdateArch) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateArch -eq $ByUpdateArch}}
-    if ($ByUpdateBuild) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateBuild -eq $ByUpdateBuild}}
-    if ($ByUpdateGroup) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateGroup -eq $ByUpdateGroup}}
-    if ($ByUpdateOS) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateOS -eq $ByUpdateOS}}
+    if ($ByArch) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateArch -eq $ByArch}}
+    if ($ByBuild) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateBuild -eq $ByBuild}}
+    if ($ByGroup) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateGroup -eq $ByGroup}}
+    if ($ByOS) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateOS -eq $ByOS}}
     #===================================================================================================
     #   Sorting
     #===================================================================================================
