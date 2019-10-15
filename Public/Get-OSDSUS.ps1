@@ -17,9 +17,45 @@ Hide the Current Update Date information
 function Get-OSDSUS {
     [CmdletBinding()]
     PARAM (
+        #Catalog Group
         [Parameter(Position = 0)]
         [ValidateSet('Office','Windows','FeatureUpdate','OSDUpdate')]
         [string]$Format,
+
+        #Filter by Catalog Property
+        [ValidateSet(
+            'Office 2010 32-Bit',
+            'Office 2010 64-Bit',
+            'Office 2013 32-Bit',
+            'Office 2013 64-Bit',
+            'Office 2016 32-Bit',
+            'Office 2016 64-Bit',
+            'Windows 10',
+            'Windows 10 Dynamic Update',
+            'Windows 7',
+            'Windows Server 2012 R2',
+            'Windows Server 2012 R2 Dynamic Update',
+            'Windows Server 2016',
+            'Windows Server 2019'
+        )]
+        [string]$ByCatalog,
+
+        #Filter by UpdateArch Property
+        [ValidateSet('x64','x86')]
+        [string]$ByUpdateArch,
+
+        #Filter by UpdateBuild Property
+        [ValidateSet(1507,1511,1607,1703,1709,1803,1809,1903,1909)]
+        [int]$ByUpdateBuild,
+
+        #Filter by UpdateGroup Property
+        [ValidateSet('AdobeSU','DotNet','DotNetCU','LCU','Optional','SSU')]
+        [string]$ByUpdateGroup,
+
+        #Filter by UpdateOS Property
+        [ValidateSet('Windows 10','Windows 7','Windows Server 2012 R2','Windows Server 2016','Windows Server 2019')]
+        [string]$ByUpdateOS,
+
         [switch]$GridView,
         [switch]$Silent
     )
@@ -32,7 +68,6 @@ function Get-OSDSUS {
     #===================================================================================================
     #   UpdateCatalogs
     #===================================================================================================
-
     $OSDSUSCatalogs = Get-ChildItem -Path "$OSDSUSCatalogPath\*" -Include "*.xml" -Recurse | Select-Object -Property *
     if ($Format -eq 'Office') {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.Name -like "Office*"}}
     if ($Format -eq 'Windows') {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.Name -like "Windows*" -and $_.Name -notmatch 'FeatureUpdate'}}
@@ -62,6 +97,14 @@ function Get-OSDSUS {
     $OSDSUS = $OSDSUS | Where-Object {$_.FileName -notlike "*.txt"}
     $OSDSUS = $OSDSUS | Where-Object {$_.FileName -notlike "*delta.exe"}
     $OSDSUS = $OSDSUS | Where-Object {$_.FileName -notlike "*express.cab"}
+    #===================================================================================================
+    #   Filter
+    #===================================================================================================
+    if ($ByCatalog) {$OSDSUS = $OSDSUS | Where-Object {$_.Catalog -eq $ByCatalog}}
+    if ($ByUpdateArch) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateArch -eq $ByUpdateArch}}
+    if ($ByUpdateBuild) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateBuild -eq $ByUpdateBuild}}
+    if ($ByUpdateGroup) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateGroup -eq $ByUpdateGroup}}
+    if ($ByUpdateOS) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateOS -eq $ByUpdateOS}}
     #===================================================================================================
     #   Sorting
     #===================================================================================================
