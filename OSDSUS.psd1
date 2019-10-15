@@ -7,11 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-<<<<<<< Updated upstream
 ModuleVersion = '19.10.15.0'
-=======
-ModuleVersion = '19.10.15.1'
->>>>>>> Stashed changes
 
 # Supported PSEditions
 # CompatiblePSEditions = @()

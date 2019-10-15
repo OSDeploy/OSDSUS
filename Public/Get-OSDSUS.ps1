@@ -47,21 +47,6 @@ function Get-OSDSUS {
 
         #Filter by UpdateArch Property
         [ValidateSet('x64','x86')]
-<<<<<<< Updated upstream
-        [string]$ByUpdateArch,
-
-        #Filter by UpdateBuild Property
-        [ValidateSet(1507,1511,1607,1703,1709,1803,1809,1903,1909)]
-        [int]$ByUpdateBuild,
-
-        #Filter by UpdateGroup Property
-        [ValidateSet('AdobeSU','DotNet','DotNetCU','LCU','Optional','SSU')]
-        [string]$ByUpdateGroup,
-
-        #Filter by UpdateOS Property
-        [ValidateSet('Windows 10','Windows 7','Windows Server 2012 R2','Windows Server 2016','Windows Server 2019')]
-        [string]$ByUpdateOS,
-=======
         [string]$UpdateArch,
 
         #Filter by UpdateBuild Property
@@ -75,7 +60,6 @@ function Get-OSDSUS {
         #Filter by UpdateOS Property
         [ValidateSet('Windows 10','Windows 7','Windows Server 2012 R2','Windows Server 2016','Windows Server 2019')]
         [string]$UpdateOS,
->>>>>>> Stashed changes
 
         #Display the results in GridView
         [switch]$GridView,
@@ -167,18 +151,10 @@ function Get-OSDSUS {
     #===================================================================================================
     #   Filter
     #===================================================================================================
-<<<<<<< Updated upstream
-    if ($ByCatalog) {$OSDSUS = $OSDSUS | Where-Object {$_.Catalog -eq $ByCatalog}}
-    if ($ByUpdateArch) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateArch -eq $ByUpdateArch}}
-    if ($ByUpdateBuild) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateBuild -eq $ByUpdateBuild}}
-    if ($ByUpdateGroup) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateGroup -eq $ByUpdateGroup}}
-    if ($ByUpdateOS) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateOS -eq $ByUpdateOS}}
-=======
     if ($UpdateArch) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateArch -eq $UpdateArch}}
     if ($UpdateBuild) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateBuild -eq $UpdateBuild}}
     if ($UpdateGroup) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateGroup -eq $UpdateGroup}}
     if ($UpdateOS) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateOS -eq $UpdateOS}}
->>>>>>> Stashed changes
     #===================================================================================================
     #   Sorting
     #===================================================================================================
