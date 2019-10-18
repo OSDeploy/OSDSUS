@@ -7,7 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '19.10.15.0'
+ModuleVersion = '19.10.18.0'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -27,11 +27,11 @@ Copyright = '(c) 2019 David Segura osdeploy.com. All rights reserved.'
 # Description of the functionality provided by this module
 Description = @'
 https://osdsus.osdeploy.com/
-UPDATES: https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
+https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
 
-This release does not contain C-Release or D-Release Updates
-10.10.15 New Params - ByCatalog ByUpdateArch ByUpdateBuild ByUpdateGroup ByUpdateOS
-10.10.13 Minor changes to support OSDBuilder 10.10.13
+19.10.18 Windows 10 1909
+19.10.15 New Params - ByCatalog ByUpdateArch ByUpdateBuild ByUpdateGroup ByUpdateOS
+19.10.13 Minor changes to support OSDBuilder 19.10.13
 19.10.8 2019-10 75 Updates - Patch Tuesday
 19.10.3 2019-10 Updates for all Operating Systems
 19.10.1 Office Updates
