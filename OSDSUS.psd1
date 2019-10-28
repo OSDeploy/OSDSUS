@@ -7,7 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '19.10.27.0'
+ModuleVersion = '19.10.27.1'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -109,13 +109,13 @@ PrivateData = @{
         Tags = @('OSD','OSDeploy','OSDSUS','Update','Windows10','Office365','Office2019','Office2016','Office2013','Office2010')
 
         # A URL to the license for this module.
-        # LicenseUri = ''
+        LicenseUri = 'https://github.com/OSDeploy/OSDSUS/blob/master/LICENSE'
 
         # A URL to the main website for this project.
         ProjectUri = 'https://github.com/OSDeploy/OSDSUS'
 
         # A URL to an icon representing this module.
-        # IconUri = ''
+        IconUri = 'https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/OSDSUS.png'
 
         # ReleaseNotes of this module
         ReleaseNotes = 'https://osdsus.osdeploy.com/release'
