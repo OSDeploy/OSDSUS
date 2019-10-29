@@ -90,9 +90,12 @@ function Get-OSDSUS {
 
         'FeatureUpdate'                         {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'FeatureUpdate'}}
         'Office'                                {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Office'}}
-        'OSDUpdate'                             {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'FeatureUpdate'}}
         'Windows Server 2019'                   {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Windows Server 2019'}}
 
+        'OSDUpdate'                             {
+            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'FeatureUpdate'}
+            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'SHA1'}
+        }
 
         'Windows 7' {
             $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Windows 7'}
