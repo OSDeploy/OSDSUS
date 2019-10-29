@@ -7,7 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '19.10.27.1'
+ModuleVersion = '19.10.29.0'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -28,14 +28,10 @@ Copyright = '(c) 2019 David Segura osdeploy.com. All rights reserved.'
 Description = @'
 https://osdsus.osdeploy.com/
 https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
-19.10.27 Resolved issue with Windows Server 2019 Catalog filtering
-19.10.24 Windows 10 and Windows Server 1903
-19.10.18 Windows 10 1909
-19.10.15 New Params - ByCatalog ByUpdateArch ByUpdateBuild ByUpdateGroup ByUpdateOS
-19.10.13 Minor changes to support OSDBuilder 19.10.13
-19.10.8 2019-10 75 Updates - Patch Tuesday
-19.10.3 2019-10 Updates for all Operating Systems
-19.10.1 Office Updates
+
+19.10.29
+Feature Updates: Windows Insider Pre-release Feature Update to Windows 10 version 1909
+Windows 7: Added updates that are SHA1 compatible for OSDBuilder.  SHA2 Updates cannot be used for Offline Servicing
 
 WSUS Update Catalogs:
 These are contained within this PowerShell Module, so regular Module updating is needed to

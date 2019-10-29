@@ -1,7 +1,5 @@
-#===================================================================================================
-#   Import Functions
-#   https://github.com/RamblingCookieMonster/PSStackExchange/blob/master/PSStackExchange/PSStackExchange.psm1
-#===================================================================================================
+#https://github.com/RamblingCookieMonster/PSStackExchange/blob/master/PSStackExchange/PSStackExchange.psm1
+
 $OSDPublicFunctions  = @( Get-ChildItem -Path $PSScriptRoot\Public\*.ps1 -ErrorAction SilentlyContinue )
 $OSDPrivateFunctions = @( Get-ChildItem -Path $PSScriptRoot\Private\*.ps1 -ErrorAction SilentlyContinue )
 
@@ -11,4 +9,3 @@ foreach ($Import in @($OSDPublicFunctions + $OSDPrivateFunctions)) {
 }
 
 Export-ModuleMember -Function $OSDPublicFunctions.BaseName
-#===================================================================================================
