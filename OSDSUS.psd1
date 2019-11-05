@@ -7,7 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '19.10.29.0'
+ModuleVersion = '19.11.5.0'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -29,9 +29,8 @@ Description = @'
 https://osdsus.osdeploy.com/
 https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
 
-19.10.29
-Feature Updates: Windows Insider Pre-release Feature Update to Windows 10 version 1909
-Windows 7: Added updates that are SHA1 compatible for OSDBuilder.  SHA2 Updates cannot be used for Offline Servicing
+19.11.5
+18 new updates for Office 2016 (32-Bit and 64-Bit)
 
 WSUS Update Catalogs:
 These are contained within this PowerShell Module, so regular Module updating is needed to
