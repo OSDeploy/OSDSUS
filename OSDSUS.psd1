@@ -7,7 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '19.11.5.0'
+ModuleVersion = '19.11.12.0'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -29,7 +29,7 @@ Description = @'
 https://osdsus.osdeploy.com/
 https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
 
-19.11.5
+19.11.12
 18 new updates for Office 2016 (32-Bit and 64-Bit)
 
 WSUS Update Catalogs:

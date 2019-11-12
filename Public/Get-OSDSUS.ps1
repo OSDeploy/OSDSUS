@@ -106,7 +106,7 @@ function Get-OSDSUS {
         'OSDBuilder' {
             $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Windows'}
             $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'FeatureUpdate'}
-            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'SHA2'}
+            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.Name -ne 'Windows 7.xml'}
 
         }
         'Windows' {
@@ -174,6 +174,7 @@ function Get-OSDSUS {
     #===================================================================================================
     #$OSDSUS = $OSDSUS | Sort-Object -Property @{Expression = {$_.CreationDate}; Ascending = $false}, Size -Descending
     $OSDSUS = $OSDSUS | Sort-Object -Property CreationDate -Descending
+    if ($Catalog -eq 'FeatureUpdate') {$OSDSUS = $OSDSUS | Sort-Object -Property Title}
     #===================================================================================================
     #   GridView
     #===================================================================================================
