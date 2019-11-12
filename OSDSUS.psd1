@@ -30,7 +30,9 @@ https://osdsus.osdeploy.com/
 https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
 
 19.11.12
-18 new updates for Office 2016 (32-Bit and 64-Bit)
+Feature Updates for Windows 10 1909
+18 Updates for Office 2010 | 2013 | 2016
+New Servicing Stacks for all OS's
 
 WSUS Update Catalogs:
 These are contained within this PowerShell Module, so regular Module updating is needed to
