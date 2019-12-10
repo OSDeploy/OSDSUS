@@ -7,7 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '19.12.3.0'
+ModuleVersion = '19.12.10.0'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -29,10 +29,10 @@ Description = @'
 https://osdsus.osdeploy.com/
 https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
 
-19.12.3.0
-KB4484133 Update for Skype for Business 2016
-KB4484170 Update for Microsoft Office 2016
-KB4484172 Update for Microsoft Outlook 2016
+19.12.10
+SSU - Windows 7
+LCU - All OS's
+Office 2010, 2013, 2016 Security Updates
 
 WSUS Update Catalogs:
 These are contained within this PowerShell Module, so regular Module updating is needed to
