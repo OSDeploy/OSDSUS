@@ -7,7 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '19.12.10.0'
+ModuleVersion = '19.12.12.0'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -16,7 +16,7 @@ ModuleVersion = '19.12.10.0'
 GUID = '065cf035-da73-4d17-8745-f55116b82fb5'
 
 # Author of this module
-Author = 'David Segura'
+Author = 'David Segura @SeguraOSD'
 
 # Company or vendor of this module
 CompanyName = 'osdeploy.com'
@@ -28,6 +28,9 @@ Copyright = '(c) 2019 David Segura osdeploy.com. All rights reserved.'
 Description = @'
 https://osdsus.osdeploy.com/
 https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
+
+19.12.12
+DotNet CU for Windows 10 and Server 1909
 
 19.12.10
 SSU - Windows 7
