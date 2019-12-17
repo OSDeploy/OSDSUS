@@ -7,7 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '19.12.12.0'
+ModuleVersion = '19.12.16.0'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -29,13 +29,9 @@ Description = @'
 https://osdsus.osdeploy.com/
 https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
 
-19.12.12
-DotNet CU for Windows 10 and Server 1909
-
-19.12.10
-SSU - Windows 7
-LCU - All OS's
-Office 2010, 2013, 2016 Security Updates
+19.12.16
+DotNet Framework 4.8
+Windows 10 LTSB Updates for 1501 1607
 
 WSUS Update Catalogs:
 These are contained within this PowerShell Module, so regular Module updating is needed to
