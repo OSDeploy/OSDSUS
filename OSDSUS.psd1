@@ -7,7 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '20.1.14.0'
+ModuleVersion = '20.1.14.1'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -28,6 +28,9 @@ Copyright = '(c) 2019 David Segura osdeploy.com. All rights reserved.'
 Description = @'
 https://osdsus.osdeploy.com/
 https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
+
+20.1.14.1
+Added SSU for Windows 10 1909 and Windows Server 1909
 
 20.1.14
 Patch Tuesday
