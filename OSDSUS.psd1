@@ -7,7 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '20.1.14.1'
+ModuleVersion = '20.1.28.0'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -28,12 +28,6 @@ Copyright = '(c) 2019 David Segura osdeploy.com. All rights reserved.'
 Description = @'
 https://osdsus.osdeploy.com/
 https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
-
-20.1.14.1
-Added SSU for Windows 10 1909 and Windows Server 1909
-
-20.1.14
-Patch Tuesday
 
 WSUS Update Catalogs:
 These are contained within this PowerShell Module, so regular Module updating is needed to
