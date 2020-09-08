@@ -50,8 +50,8 @@ function Get-OSDSUS {
         [string]$UpdateArch,
 
         #Filter by UpdateBuild Property
-        [ValidateSet(1507,1511,1607,1703,1709,1803,1809,1903,1909,2004)]
-        [int]$UpdateBuild,
+        [ValidateSet(1507,1511,1607,1703,1709,1803,1809,1903,1909,2004,'20H2')]
+        [string]$UpdateBuild,
 
         #Filter by UpdateGroup Property
         [ValidateSet('AdobeSU','DotNet','DotNetCU','LCU','Optional','SSU')]

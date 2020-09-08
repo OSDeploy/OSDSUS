@@ -7,7 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '20.8.11.1'
+ModuleVersion = '20.9.8.1'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
