@@ -7,7 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '20.11.10.1'
+ModuleVersion = '20.12.8.1'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -26,10 +26,12 @@ Copyright = '(c) 2020 David Segura osdeploy.com. All rights reserved.'
 
 # Description of the functionality provided by this module
 Description = @'
+Feature Update for Windows 10 2009 (20H2) 19042.631 (2020 Nov 11)
+Office 2016 Updates
+
 https://osdsus.osdeploy.com/
 https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
 
-Added updates for Windows 10 2009 (20H2)
 
 WSUS Update Catalogs:
 These are contained within this PowerShell Module, so regular Module updating is needed to
@@ -109,7 +111,7 @@ PrivateData = @{
         ProjectUri = 'https://github.com/OSDeploy/OSDSUS'
 
         # A URL to an icon representing this module.
-        IconUri = 'https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/OSDSUS.png'
+        IconUri = 'https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/OSD.png'
 
         # ReleaseNotes of this module
         ReleaseNotes = 'https://osdsus.osdeploy.com/release'
