@@ -40,7 +40,8 @@ function Get-OSDSUS {
             'Windows Server 2012 R2',
             'Windows Server 2012 R2 Dynamic Update',
             'Windows Server 2016',
-            'Windows Server 2019'
+            'Windows Server 2019',
+            'Windows Server'
         )]
         [Alias('Format')]
         [string]$Catalog = 'All',
@@ -58,7 +59,7 @@ function Get-OSDSUS {
         [string]$UpdateGroup,
 
         #Filter by UpdateOS Property
-        [ValidateSet('Windows 10','Windows 7','Windows Server 2012 R2','Windows Server 2016','Windows Server 2019')]
+        [ValidateSet('Windows 10','Windows 7','Windows Server 2012 R2','Windows Server 2016','Windows Server 2019','Windows Server')]
         [string]$UpdateOS,
 
         #Display the results in GridView
@@ -87,10 +88,11 @@ function Get-OSDSUS {
         'Windows 10 Dynamic Update'             {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -eq $Catalog}}
         'Windows Server 2012 R2 Dynamic Update' {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -eq $Catalog}}
         'Windows Server 2016'                   {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -eq $Catalog}}
+        'Windows Server 2019'                   {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -eq $Catalog}}
+        'Windows Server'                        {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Windows Server 1903 and Later'}}
 
         'FeatureUpdate'                         {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'FeatureUpdate'}}
         'Office'                                {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Office'}}
-        'Windows Server 2019'                   {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Windows Server 2019'}}
 
         'OSDUpdate'                             {
             $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'FeatureUpdate'}
