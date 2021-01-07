@@ -7,7 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '20.12.10.1'
+ModuleVersion = '21.1.7.1'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -22,12 +22,12 @@ Author = 'David Segura @SeguraOSD'
 CompanyName = 'osdeploy.com'
 
 # Copyright statement for this module
-Copyright = '(c) 2020 David Segura osdeploy.com. All rights reserved.'
+Copyright = '(c) 2021 David Segura osdeploy.com. All rights reserved.'
 
 # Description of the functionality provided by this module
 Description = @'
-Feature Update for Windows 10 2009 (20H2) 19042.631 (2020 Nov 11)
-Office 2016 Updates
+Resolved issue with Windows 7 Updates
+New Office 2016 Updates
 
 https://osdsus.osdeploy.com/
 https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
