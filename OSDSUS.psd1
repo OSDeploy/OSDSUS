@@ -7,7 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '21.5.12.2'
+ModuleVersion = '21.5.19.1'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -26,11 +26,8 @@ Copyright = '(c) 2021 David Segura osdeploy.com. All rights reserved.'
 
 # Description of the functionality provided by this module
 Description = @'
-May 2021 Patch Tuesday
-
 https://osdsus.osdeploy.com/
 https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
-
 
 WSUS Update Catalogs:
 These are contained within this PowerShell Module, so regular Module updating is needed to
