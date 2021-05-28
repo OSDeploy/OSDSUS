@@ -51,7 +51,7 @@ function Get-OSDSUS {
         [string]$UpdateArch,
 
         #Filter by UpdateBuild Property
-        [ValidateSet(1507,1511,1607,1703,1709,1803,1809,1903,1909,2004,2009,'20H2','21H1')]
+        [ValidateSet(1507,1511,1607,1703,1709,1803,1809,1903,1909,2004,'20H2','21H1')]
         [string]$UpdateBuild,
 
         #Filter by UpdateGroup Property
