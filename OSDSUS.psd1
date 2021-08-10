@@ -7,7 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '21.7.13.1'
+ModuleVersion = '21.8.10.1'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -26,7 +26,6 @@ Copyright = '(c) 2021 David Segura osdeploy.com. All rights reserved.'
 
 # Description of the functionality provided by this module
 Description = @'
-This is the last Catalog containing updates for Windows 7 and Windows Server 2012 R2
 https://osdsus.osdeploy.com/
 https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
 
