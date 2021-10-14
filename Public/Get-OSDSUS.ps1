@@ -39,8 +39,6 @@ function Get-OSDSUS {
             'Windows 11 Dynamic Update',
             'Windows 7',
             'WindowsServer',
-            'Windows Server 2012 R2',
-            'Windows Server 2012 R2 Dynamic Update',
             'Windows Server 2016',
             'Windows Server 2019',
             'Windows Server'
@@ -61,7 +59,7 @@ function Get-OSDSUS {
         [string]$UpdateGroup,
 
         #Filter by UpdateOS Property
-        [ValidateSet('Windows 11','Windows 10','Windows 7','Windows Server 2012 R2','Windows Server 2016','Windows Server 2019','Windows Server')]
+        [ValidateSet('Windows 10','Windows 11','Windows Server','Windows Server 2016','Windows Server 2019')]
         [string]$UpdateOS,
 
         #Display the results in GridView
@@ -81,72 +79,61 @@ function Get-OSDSUS {
     $OSDSUSCatalogs = Get-ChildItem -Path "$OSDSUSCatalogPath\*" -Include "*.xml" -Recurse | Select-Object -Property *
 
     switch ($Catalog) {
-        'Office 2010 32-Bit'                    {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -eq $Catalog}}
-        'Office 2010 64-Bit'                    {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -eq $Catalog}}
-        'Office 2013 32-Bit'                    {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -eq $Catalog}}
-        'Office 2013 64-Bit'                    {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -eq $Catalog}}
-        'Office 2016 32-Bit'                    {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -eq $Catalog}}
-        'Office 2016 64-Bit'                    {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -eq $Catalog}}
-        'Windows 10 Dynamic Update'             {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -eq $Catalog}}
-        'Windows 11 Dynamic Update'             {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -eq $Catalog}}
-        'Windows Server 2012 R2 Dynamic Update' {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -eq $Catalog}}
-        'Windows Server 2016'                   {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -eq $Catalog}}
-        'Windows Server 2019'                   {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -eq $Catalog}}
-        'Windows Server'                        {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Windows Server 1903 and Later'}}
-
-        'FeatureUpdate'                         {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'FeatureUpdate'}}
-        'Office'                                {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Office'}}
+        'Enablement'                    {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Enablement'}}
+        'FeatureUpdate'                 {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'FeatureUpdate'}}
+        'Office'                        {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Office'}}
+        'Office 2010 32-Bit'            {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Office 2010'}}
+        'Office 2010 64-Bit'            {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Office 2010'}}
+        'Office 2013 32-Bit'            {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Office 2013'}}
+        'Office 2013 64-Bit'            {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Office 2013'}}
+        'Office 2016 32-Bit'            {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Office 2016'}}
+        'Office 2016 64-Bit'            {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Office 2016'}}
+        'Windows' {
+            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Windows'}
+            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'FeatureUpdate'}
+        }
+        'Windows Client' {
+            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Windows'}
+            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'Server'}
+            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'Dynamic Update'}
+            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'FeatureUpdate'}
+        }
+        'Windows 10' {
+            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Windows 10'}
+            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'Dynamic Update'}
+            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'FeatureUpdate'}
+        }
+        'Windows 11' {
+            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Windows 11'}
+            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'Dynamic Update'}
+            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'FeatureUpdate'}
+        }
+        'Windows 10 Dynamic Update'     {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -eq $Catalog}}
+        'Windows 11 Dynamic Update'     {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -eq $Catalog}}
+        'Windows Server 2016'           {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match $Catalog}}
+        'Windows Server 2019'           {$OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match $Catalog}}
 
         'OSDUpdate'                             {
             $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'FeatureUpdate'}
-            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'SHA1'}
         }
-
-        'Windows 7' {
-            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Windows 7'}
-            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'SHA1'}
-        }
-
 
         'OSDBuilder' {
             $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Windows'}
             $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'FeatureUpdate'}
-            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.Name -ne 'Windows 7.xml'}
 
-        }
-        'Windows' {
-            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Windows'}
-            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'FeatureUpdate'}
-            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'SHA1'}
         }
         'WindowsClient' {
             $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Windows'}
             $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'Server'}
             $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'Dynamic Update'}
             $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'FeatureUpdate'}
-            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'SHA1'}
         }
-        'Windows 10' {
-            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Windows 10'}
-            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'Dynamic Update'}
-            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'FeatureUpdate'}
-            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'SHA1'}
-        }
-        'Windows 11' {
-            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Windows 11'}
-            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'Dynamic Update'}
-            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'FeatureUpdate'}
-            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'SHA1'}
+        'Windows Server' {
+            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match $Catalog}
         }
         'WindowsServer' {
             $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Windows Server'}
             $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'Dynamic Update'}
-            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'SHA1'}
-        }
-        'Windows Server 2012 R2' {
-            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -match 'Windows Server 2012 R2'}
-            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'Dynamic Update'}
-            $OSDSUSCatalogs = $OSDSUSCatalogs | Where-Object {$_.BaseName -notmatch 'SHA1'}
         }
     }
     #===================================================================================================
@@ -173,13 +160,22 @@ function Get-OSDSUS {
     $OSDSUS = $OSDSUS | Where-Object {$_.FileName -notlike "*.txt"}
     $OSDSUS = $OSDSUS | Where-Object {$_.FileName -notlike "*delta.exe"}
     $OSDSUS = $OSDSUS | Where-Object {$_.FileName -notlike "*express.cab"}
+    
+    if ($Catalog -match 'Office') {
+        if ($Catalog -match '32-Bit') {
+            $OSDSUS = $OSDSUS | Where-Object {$_.Catalog -match '32-Bit'}
+        }
+        if ($Catalog -match '64-Bit') {
+            $OSDSUS = $OSDSUS | Where-Object {$_.Catalog -match '64-Bit'}
+        }
+    }
     #===================================================================================================
     #   Filter
     #===================================================================================================
     if ($UpdateArch) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateArch -eq $UpdateArch}}
     if ($UpdateBuild) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateBuild -eq $UpdateBuild}}
     if ($UpdateGroup) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateGroup -eq $UpdateGroup}}
-    if ($UpdateOS) {$OSDSUS = $OSDSUS | Where-Object {$_.UpdateOS -eq $UpdateOS}}
+    if ($UpdateOS) {$OSDSUS = $OSDSUS | Where-Object {$_.Catalog -match $UpdateOS}}
     #===================================================================================================
     #   Sorting
     #===================================================================================================
