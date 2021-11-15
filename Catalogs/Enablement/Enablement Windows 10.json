@@ -1,7 +1,7 @@
 [
     {
         "Catalog":  "Enablement Windows 10",
-        "OSDVersion":  "21.11.13.1",
+        "OSDVersion":  "21.11.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1909",
@@ -53,7 +53,7 @@
     },
     {
         "Catalog":  "Enablement Windows 10",
-        "OSDVersion":  "21.11.13.1",
+        "OSDVersion":  "21.11.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1909",
@@ -105,7 +105,7 @@
     },
     {
         "Catalog":  "Enablement Windows 10",
-        "OSDVersion":  "21.11.13.1",
+        "OSDVersion":  "21.11.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "20H2",
@@ -157,7 +157,7 @@
     },
     {
         "Catalog":  "Enablement Windows 10",
-        "OSDVersion":  "21.11.13.1",
+        "OSDVersion":  "21.11.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "20H2",
@@ -209,7 +209,7 @@
     },
     {
         "Catalog":  "Enablement Windows 10",
-        "OSDVersion":  "21.11.13.1",
+        "OSDVersion":  "21.11.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "21H1",
@@ -261,7 +261,7 @@
     },
     {
         "Catalog":  "Enablement Windows 10",
-        "OSDVersion":  "21.11.13.1",
+        "OSDVersion":  "21.11.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "21H1",
