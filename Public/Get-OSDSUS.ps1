@@ -150,7 +150,8 @@ function Get-OSDSUS {
     #   Import Catalog XML Files
     #===================================================================================================
     foreach ($OSDSUSCatalog in $OSDSUSCatalogs) {
-        $OSDSUS += Import-Clixml -Path "$($OSDSUSCatalog.FullName)"
+        #Write-Output $OSDSUSCatalog.FullName
+        $OSDSUS += Import-Clixml -Path $OSDSUSCatalog.FullName
     }
     #===================================================================================================
     #   Standard Filters
