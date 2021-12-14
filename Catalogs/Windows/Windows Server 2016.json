@@ -1,7 +1,7 @@
 [
     {
         "Catalog":  "Windows Server 2016",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1607",
@@ -47,13 +47,13 @@
         "AdditionalHash":  "138 175 36 155 49 103 188 219 119 40 158 46 162 240 164 59 106 215 144 136 165 216 7 129 31 246 135 58 206 139 87 237",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "cc592182-724c-4a97-80fe-559de3fb1d6c",
+        "OSDGuid":  "a07c9240-6310-44e5-ad88-01107785b33c",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "cc592182-724c-4a97-80fe-559de3fb1d6c"
+        "RowKey":  "a07c9240-6310-44e5-ad88-01107785b33c"
     },
     {
         "Catalog":  "Windows Server 2016",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1803",
@@ -99,13 +99,13 @@
         "AdditionalHash":  "136 247 230 6 149 58 206 92 111 177 5 9 182 27 23 32 15 53 147 41 34 80 251 43 50 235 53 85 29 71 137 38",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "30e95cf0-e34d-4597-b9d9-f61560b15258",
+        "OSDGuid":  "1c32bc3d-e05b-4b03-aa00-ee62286459f7",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "30e95cf0-e34d-4597-b9d9-f61560b15258"
+        "RowKey":  "1c32bc3d-e05b-4b03-aa00-ee62286459f7"
     },
     {
         "Catalog":  "Windows Server 2016",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1709",
@@ -151,13 +151,13 @@
         "AdditionalHash":  "221 96 195 53 243 208 90 15 231 212 161 121 62 218 225 168 129 201 222 185 7 204 100 202 185 249 58 101 100 78 93 32",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "4ef18b9a-c6b6-4e89-868e-30e2b71100a8",
+        "OSDGuid":  "6a2c1d94-f829-43bc-be61-ee31777028a1",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "4ef18b9a-c6b6-4e89-868e-30e2b71100a8"
+        "RowKey":  "6a2c1d94-f829-43bc-be61-ee31777028a1"
     },
     {
         "Catalog":  "Windows Server 2016",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1709",
@@ -203,13 +203,13 @@
         "AdditionalHash":  "88 225 86 188 222 55 6 126 53 135 79 174 34 183 236 114 53 82 141 207 151 55 206 227 58 135 83 26 77 241 70 204",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "515eebc4-9c36-4270-84c4-7740c329fd22",
+        "OSDGuid":  "dfa51d7c-230c-4aaf-9101-42d176ccdb02",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "515eebc4-9c36-4270-84c4-7740c329fd22"
+        "RowKey":  "dfa51d7c-230c-4aaf-9101-42d176ccdb02"
     },
     {
         "Catalog":  "Windows Server 2016",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1803",
@@ -255,13 +255,13 @@
         "AdditionalHash":  "58 12 14 59 39 224 20 74 214 200 20 11 128 111 162 57 181 224 211 41 157 171 85 24 51 246 133 21 156 87 182 43",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "8c5d8e82-5e23-4643-a3a2-20e4e77c75dd",
+        "OSDGuid":  "40af420c-ed5b-4765-a510-36447ce31702",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "8c5d8e82-5e23-4643-a3a2-20e4e77c75dd"
+        "RowKey":  "40af420c-ed5b-4765-a510-36447ce31702"
     },
     {
         "Catalog":  "Windows Server 2016",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1709",
@@ -307,13 +307,13 @@
         "AdditionalHash":  "99 88 114 146 122 67 69 93 103 137 253 90 145 130 134 179 115 68 168 78 85 155 154 170 124 27 128 140 61 83 36 92",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "d3d992bd-0018-4b2f-9d92-2b66497a44cd",
+        "OSDGuid":  "9500900f-428b-454e-8822-7a817f8bd122",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "d3d992bd-0018-4b2f-9d92-2b66497a44cd"
+        "RowKey":  "9500900f-428b-454e-8822-7a817f8bd122"
     },
     {
         "Catalog":  "Windows Server 2016",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1607",
@@ -359,13 +359,13 @@
         "AdditionalHash":  "48 73 46 99 138 198 132 28 161 182 159 12 110 230 245 188 44 46 219 7 128 97 94 40 57 110 31 28 237 153 93 40",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "189f72d7-aa14-4201-bf43-6131464f72bc",
+        "OSDGuid":  "d7353cf3-eea3-4ca5-a529-cf8918fcb008",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "189f72d7-aa14-4201-bf43-6131464f72bc"
+        "RowKey":  "d7353cf3-eea3-4ca5-a529-cf8918fcb008"
     },
     {
         "Catalog":  "Windows Server 2016",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1803",
@@ -411,13 +411,13 @@
         "AdditionalHash":  "8 107 75 200 170 235 28 246 99 12 20 39 175 136 64 82 162 50 63 191 147 40 105 9 223 72 177 3 52 48 97 18",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "29bc8f2b-8c84-4688-970f-6bc6cc6b458f",
+        "OSDGuid":  "1a65c342-3592-4154-bdd7-841635240d6c",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "29bc8f2b-8c84-4688-970f-6bc6cc6b458f"
+        "RowKey":  "1a65c342-3592-4154-bdd7-841635240d6c"
     },
     {
         "Catalog":  "Windows Server 2016",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1803",
@@ -463,13 +463,13 @@
         "AdditionalHash":  "67 138 186 172 63 240 115 29 112 97 86 125 94 183 62 196 208 72 95 28 170 2 195 134 185 96 31 44 130 113 161 69",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "983b41ee-64fc-4916-9418-57fd248382f2",
+        "OSDGuid":  "0fb8b934-135d-444e-9baa-59731c838f31",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "983b41ee-64fc-4916-9418-57fd248382f2"
+        "RowKey":  "0fb8b934-135d-444e-9baa-59731c838f31"
     },
     {
         "Catalog":  "Windows Server 2016",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1607",
@@ -515,13 +515,13 @@
         "AdditionalHash":  "177 85 61 166 1 0 108 117 253 73 24 54 16 177 244 117 45 208 236 73 156 118 222 216 92 26 243 94 65 215 17 29",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "a4867146-7908-4807-87d1-009d82d9da79",
+        "OSDGuid":  "4dbe4366-8085-49f8-828d-acd075b2a536",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "a4867146-7908-4807-87d1-009d82d9da79"
+        "RowKey":  "4dbe4366-8085-49f8-828d-acd075b2a536"
     },
     {
         "Catalog":  "Windows Server 2016",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1607",
@@ -567,13 +567,13 @@
         "AdditionalHash":  "43 112 113 191 247 253 236 91 210 31 128 34 167 118 231 184 35 34 146 2 149 37 22 82 50 107 36 174 228 192 177 93",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "0b1f0202-4415-4da6-aa79-272d88efeeb1",
+        "OSDGuid":  "df3523ff-4260-41c7-84ba-fb88c7562e9c",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "0b1f0202-4415-4da6-aa79-272d88efeeb1"
+        "RowKey":  "df3523ff-4260-41c7-84ba-fb88c7562e9c"
     },
     {
         "Catalog":  "Windows Server 2016",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1803",
@@ -619,13 +619,13 @@
         "AdditionalHash":  "230 249 17 184 208 81 43 188 106 16 90 149 169 119 246 236 216 99 4 144 156 71 27 12 147 2 14 89 83 17 116 253",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "f5c7521f-81b6-4bad-bfca-991fb252eda9",
+        "OSDGuid":  "a7ace893-799b-479c-897e-4d7ac693c132",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "f5c7521f-81b6-4bad-bfca-991fb252eda9"
+        "RowKey":  "a7ace893-799b-479c-897e-4d7ac693c132"
     },
     {
         "Catalog":  "Windows Server 2016",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1607",
@@ -671,13 +671,13 @@
         "AdditionalHash":  "88 86 206 71 216 77 222 78 246 188 250 223 218 200 30 131 183 149 23 163 46 62 122 8 15 104 110 10 15 194 51 155",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "01e3ab37-e4bd-4085-b297-7f049b370498",
+        "OSDGuid":  "b95de10a-195d-469b-bc33-3a96ddf136e8",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "01e3ab37-e4bd-4085-b297-7f049b370498"
+        "RowKey":  "b95de10a-195d-469b-bc33-3a96ddf136e8"
     },
     {
         "Catalog":  "Windows Server 2016",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1607",
@@ -723,13 +723,13 @@
         "AdditionalHash":  "100 196 82 210 218 123 102 75 58 133 132 27 92 150 233 147 217 190 47 178 40 176 145 253 24 238 20 47 62 127 70 200",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "3617b091-13d2-431a-b675-c6aa64c420fa",
+        "OSDGuid":  "fa76b69d-0b74-4bde-9b2a-4bc6fce59da9",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "3617b091-13d2-431a-b675-c6aa64c420fa"
+        "RowKey":  "fa76b69d-0b74-4bde-9b2a-4bc6fce59da9"
     },
     {
         "Catalog":  "Windows Server 2016",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1803",
@@ -775,13 +775,13 @@
         "AdditionalHash":  "57 158 151 6 78 169 7 41 233 131 212 18 183 70 149 170 45 161 231 8 74 232 82 140 83 232 247 188 33 17 68 141",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "f009f002-378f-43b7-aaf8-554977643788",
+        "OSDGuid":  "7ba78d64-bcef-438b-97c8-0fba95a4a7b2",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "f009f002-378f-43b7-aaf8-554977643788"
+        "RowKey":  "7ba78d64-bcef-438b-97c8-0fba95a4a7b2"
     },
     {
         "Catalog":  "Windows Server 2016",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1607",
@@ -827,13 +827,13 @@
         "AdditionalHash":  "82 14 50 61 166 151 251 206 55 103 188 79 254 176 146 37 176 224 84 221 94 191 38 52 248 20 135 23 97 33 165 180",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "838519b0-3aac-47bf-80c6-d1e2f236bab2",
+        "OSDGuid":  "d1b6d5a6-dc31-46d9-b048-c3b05f69f1bd",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "838519b0-3aac-47bf-80c6-d1e2f236bab2"
+        "RowKey":  "d1b6d5a6-dc31-46d9-b048-c3b05f69f1bd"
     },
     {
         "Catalog":  "Windows Server 2016",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1607",
@@ -879,27 +879,27 @@
         "AdditionalHash":  "169 100 89 76 168 82 156 96 177 236 48 206 173 196 13 239 219 48 98 247 95 217 81 42 46 115 42 83 81 209 84 76",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "974593e8-3b23-42b8-b785-270fd4e97134",
+        "OSDGuid":  "937a2f87-8a03-4585-aab5-bd0ffe2082c2",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "974593e8-3b23-42b8-b785-270fd4e97134"
+        "RowKey":  "937a2f87-8a03-4585-aab5-bd0ffe2082c2"
     },
     {
         "Catalog":  "Windows Server 2016",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1607",
         "UpdateArch":  "x64",
         "UpdateGroup":  "LCU",
-        "CreationDate":  "\/Date(1636480806000)\/",
-        "KBNumber":  "5007192",
-        "FileKBNumber":  "5007192",
-        "Title":  "2021-11 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5007192)",
-        "UpdateId":  "b4d62358-72b3-448f-a0c8-2dc6da3f116a",
-        "LegacyName":  "KB5007192-Windows10Rs1Server-RTM-X64-TSL-World",
+        "CreationDate":  "\/Date(1639504806000)\/",
+        "KBNumber":  "5008207",
+        "FileKBNumber":  "5008207",
+        "Title":  "2021-12 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5008207)",
+        "UpdateId":  "eab5b5e5-da97-4947-bf50-6b6dc39f7545",
+        "LegacyName":  "KB5008207-Windows10Rs1Server-RTM-X64-TSL-World",
         "Type":  "SelfContained",
-        "FileName":  "Windows10.0-KB5007192-x64.cab",
-        "Size":  1746770866,
+        "FileName":  "Windows10.0-KB5008207-x64.cab",
+        "Size":  1771764599,
         "CompanyTitles":  "Microsoft",
         "ProductFamilyTitles":  "Windows",
         "Category":  "Windows Server 2016",
@@ -922,17 +922,17 @@
         "IsWsusInfrastructureUpdate":  false,
         "IsEditable":  false,
         "UpdateSource":  "MicrosoftUpdate",
-        "AdditionalInformationUrls":  "https://support.microsoft.com/help/5007192",
+        "AdditionalInformationUrls":  "https://support.microsoft.com/help/5008207",
         "Description":  "A security issue has been identified in a Microsoft software product that could affect your system. You can help protect your system by installing this update from Microsoft. For a complete listing of the issues that are included in this update, see the associated Microsoft Knowledge Base article. After you install this update, you may have to restart your system.",
         "ReleaseNotes":  "",
-        "FileUri":  "http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/11/windows10.0-kb5007192-x64_554d1e7f99f3b5355519056cbeb540963eb4004a.cab",
-        "OriginUri":  "http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/11/windows10.0-kb5007192-x64_554d1e7f99f3b5355519056cbeb540963eb4004a.cab",
-        "Hash":  "85 77 30 127 153 243 181 53 85 25 5 108 190 181 64 150 62 180 0 74",
-        "AdditionalHash":  "246 43 149 136 90 79 235 229 7 145 200 203 208 88 203 140 44 69 229 226 237 75 53 177 7 185 217 152 207 21 32 55",
+        "FileUri":  "http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/12/windows10.0-kb5008207-x64_fe06a84a9ec269db080011e07cbf3594d2a0843a.cab",
+        "OriginUri":  "http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/12/windows10.0-kb5008207-x64_fe06a84a9ec269db080011e07cbf3594d2a0843a.cab",
+        "Hash":  "254 6 168 74 158 194 105 219 8 0 17 224 124 191 53 148 210 160 132 58",
+        "AdditionalHash":  "12 152 185 84 193 48 226 178 36 171 115 19 227 149 7 105 33 237 69 199 12 172 135 20 35 9 144 175 253 125 164 119",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "d13cd154-08f6-4174-ae7e-132c8195e4a0",
+        "OSDGuid":  "d4a20f95-6855-4ce4-ac08-906e5cd2fdf3",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "d13cd154-08f6-4174-ae7e-132c8195e4a0"
+        "RowKey":  "d4a20f95-6855-4ce4-ac08-906e5cd2fdf3"
     }
 ]

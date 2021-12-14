@@ -1,7 +1,7 @@
 [
     {
         "Catalog":  "Windows Server 2004",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "2004",
@@ -47,13 +47,13 @@
         "AdditionalHash":  "108 220 103 147 116 237 87 78 187 110 195 94 148 87 228 27 44 70 93 35 135 86 208 159 35 176 202 31 58 173 76 200",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "9d55bfd1-00b5-47d1-b0a7-bb1a4a279440",
+        "OSDGuid":  "e1302d6e-3035-4e52-af75-c0b709ba2da6",
         "PartitionKey":  "Windows Server 2004",
-        "RowKey":  "9d55bfd1-00b5-47d1-b0a7-bb1a4a279440"
+        "RowKey":  "e1302d6e-3035-4e52-af75-c0b709ba2da6"
     },
     {
         "Catalog":  "Windows Server 2004",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "2004",
@@ -99,13 +99,13 @@
         "AdditionalHash":  "179 64 249 81 34 121 67 177 208 232 26 96 32 53 5 52 61 81 131 88 41 113 0 249 218 140 155 56 25 105 62 170",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "55242436-48e5-4871-8094-249c74ee12ff",
+        "OSDGuid":  "56aebd21-84f8-468e-b948-028bba8bd179",
         "PartitionKey":  "Windows Server 2004",
-        "RowKey":  "55242436-48e5-4871-8094-249c74ee12ff"
+        "RowKey":  "56aebd21-84f8-468e-b948-028bba8bd179"
     },
     {
         "Catalog":  "Windows Server 2004",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "2004",
@@ -151,13 +151,13 @@
         "AdditionalHash":  "96 156 71 36 185 226 110 196 197 200 188 241 190 182 26 133 157 191 52 10 163 248 110 29 62 138 127 201 40 16 124 97",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "31171e3f-44e6-4bf0-89bf-999d32137328",
+        "OSDGuid":  "2a4376d6-9cf0-4364-bc4b-1e7303ee5581",
         "PartitionKey":  "Windows Server 2004",
-        "RowKey":  "31171e3f-44e6-4bf0-89bf-999d32137328"
+        "RowKey":  "2a4376d6-9cf0-4364-bc4b-1e7303ee5581"
     },
     {
         "Catalog":  "Windows Server 2004",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "2004",
@@ -203,13 +203,13 @@
         "AdditionalHash":  "89 182 148 163 5 79 30 154 106 201 31 87 1 240 43 143 219 6 67 105 111 57 44 226 230 44 246 198 191 104 123 153",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "423e01fc-dc57-4917-9fbe-5adbf70c57e2",
+        "OSDGuid":  "e9d0e219-05f3-4e31-9803-f3938ec4f19b",
         "PartitionKey":  "Windows Server 2004",
-        "RowKey":  "423e01fc-dc57-4917-9fbe-5adbf70c57e2"
+        "RowKey":  "e9d0e219-05f3-4e31-9803-f3938ec4f19b"
     },
     {
         "Catalog":  "Windows Server 2004",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "2004",
@@ -255,13 +255,13 @@
         "AdditionalHash":  "105 149 50 78 234 243 222 76 117 96 156 226 38 135 72 99 236 246 105 212 119 48 40 43 79 233 162 92 212 190 240 76",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "7b5b73cd-6319-4f8a-9b2a-aaa642d3dbba",
+        "OSDGuid":  "fffec91e-ee49-4ab0-bdae-3990c7815a1e",
         "PartitionKey":  "Windows Server 2004",
-        "RowKey":  "7b5b73cd-6319-4f8a-9b2a-aaa642d3dbba"
+        "RowKey":  "fffec91e-ee49-4ab0-bdae-3990c7815a1e"
     },
     {
         "Catalog":  "Windows Server 2004",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "2004",
@@ -307,13 +307,13 @@
         "AdditionalHash":  "82 36 173 110 141 157 46 145 171 222 203 216 195 166 161 41 193 234 1 180 52 216 52 28 135 49 151 168 99 186 83 174",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "4cfbd9fb-3fb3-4b59-98b0-17da27cf4c8c",
+        "OSDGuid":  "e8385c94-1a7b-422f-9f1a-5749df1b514b",
         "PartitionKey":  "Windows Server 2004",
-        "RowKey":  "4cfbd9fb-3fb3-4b59-98b0-17da27cf4c8c"
+        "RowKey":  "e8385c94-1a7b-422f-9f1a-5749df1b514b"
     },
     {
         "Catalog":  "Windows Server 2004",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "2004",
@@ -359,27 +359,27 @@
         "AdditionalHash":  "34 237 203 33 137 199 254 36 147 159 14 246 91 56 190 88 132 242 122 188 161 129 127 194 5 134 224 171 89 1 12 86",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "b0c2c59f-b89c-4f1e-ad05-13246fb9f8e2",
+        "OSDGuid":  "7f203ca1-836f-47a0-ac89-748ddd6d9150",
         "PartitionKey":  "Windows Server 2004",
-        "RowKey":  "b0c2c59f-b89c-4f1e-ad05-13246fb9f8e2"
+        "RowKey":  "7f203ca1-836f-47a0-ac89-748ddd6d9150"
     },
     {
         "Catalog":  "Windows Server 2004",
-        "OSDVersion":  "21.11.14.1",
+        "OSDVersion":  "21.12.14.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "2004",
         "UpdateArch":  "x64",
         "UpdateGroup":  "LCU",
-        "CreationDate":  "\/Date(1636480812000)\/",
-        "KBNumber":  "5007186",
-        "FileKBNumber":  "5007186",
-        "Title":  "2021-11 Cumulative Update for Windows Server version 2004 for x64-based Systems (KB5007186)",
-        "UpdateId":  "f18d4afc-f21b-41ac-bbaa-3ddbf2fc74a5",
-        "LegacyName":  "KB5007186-Windows1020h1Server-RTM-UnifiedCumulativeSecurity-X64-TSL-World",
+        "CreationDate":  "\/Date(1639504807000)\/",
+        "KBNumber":  "5008212",
+        "FileKBNumber":  "5008212",
+        "Title":  "2021-12 Cumulative Update for Windows Server version 2004 for x64-based Systems (KB5008212)",
+        "UpdateId":  "d354f89a-5c8e-4bf6-826e-59f2b53882bb",
+        "LegacyName":  "KB5008212-Windows1020h1Server-RTM-UnifiedCumulativeSecurity-X64-TSL-World",
         "Type":  "SelfContained",
-        "FileName":  "Windows10.0-KB5007186-x64.cab",
-        "Size":  657924872,
+        "FileName":  "Windows10.0-KB5008212-x64.cab",
+        "Size":  664366368,
         "CompanyTitles":  "Microsoft",
         "ProductFamilyTitles":  "Windows",
         "Category":  "Windows Server, version 1903 and later",
@@ -402,17 +402,17 @@
         "IsWsusInfrastructureUpdate":  false,
         "IsEditable":  false,
         "UpdateSource":  "MicrosoftUpdate",
-        "AdditionalInformationUrls":  "https://support.microsoft.com/help/5007186",
+        "AdditionalInformationUrls":  "https://support.microsoft.com/help/5008212",
         "Description":  "Install this update to resolve issues in Windows. For a complete listing of the issues that are included in this update, see the associated Microsoft Knowledge Base article for more information. After you install this item, you may have to restart your computer.",
         "ReleaseNotes":  "",
-        "FileUri":  "http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/11/windows10.0-kb5007186-x64_fa3bf3175f56b9a8916793cffd054e0f65698610.cab",
-        "OriginUri":  "http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/11/windows10.0-kb5007186-x64_fa3bf3175f56b9a8916793cffd054e0f65698610.cab",
-        "Hash":  "250 59 243 23 95 86 185 168 145 103 147 207 253 5 78 15 101 105 134 16",
-        "AdditionalHash":  "151 37 244 37 13 39 6 172 34 105 250 47 154 202 131 168 158 234 228 123 145 210 42 180 2 250 158 39 10 198 234 204",
+        "FileUri":  "http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows10.0-kb5008212-x64_77977a3d502169fc014fdc2052691ded44760ec9.cab",
+        "OriginUri":  "http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows10.0-kb5008212-x64_77977a3d502169fc014fdc2052691ded44760ec9.cab",
+        "Hash":  "119 151 122 61 80 33 105 252 1 79 220 32 82 105 29 237 68 118 14 201",
+        "AdditionalHash":  "61 193 129 85 205 84 254 61 160 177 149 104 177 213 223 127 182 181 200 129 150 106 218 168 225 20 95 252 246 89 58 83",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "73bf849c-3a75-4afe-8603-f3e286734603",
+        "OSDGuid":  "87dd5c73-d7f7-415f-823d-e25397a378f4",
         "PartitionKey":  "Windows Server 2004",
-        "RowKey":  "73bf849c-3a75-4afe-8603-f3e286734603"
+        "RowKey":  "87dd5c73-d7f7-415f-823d-e25397a378f4"
     }
 ]
