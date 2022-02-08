@@ -7,10 +7,10 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '22.1.11.1'
+ModuleVersion = '22.2.8.1'
 
 # Supported PSEditions
-# CompatiblePSEditions = @()
+CompatiblePSEditions = @('Desktop')
 
 # ID used to uniquely identify this module
 GUID = '065cf035-da73-4d17-8745-f55116b82fb5'
