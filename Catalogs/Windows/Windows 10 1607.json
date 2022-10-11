@@ -47,9 +47,9 @@
         "AdditionalHash":  "48 73 46 99 138 198 132 28 161 182 159 12 110 230 245 188 44 46 219 7 128 97 94 40 57 110 31 28 237 153 93 40",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "7d421ea1-8372-4e66-aae7-2e05e4eccb28",
+        "OSDGuid":  "4a284ca4-8d29-419b-9038-ef809c605ce2",
         "PartitionKey":  "Windows 10 1607",
-        "RowKey":  "7d421ea1-8372-4e66-aae7-2e05e4eccb28"
+        "RowKey":  "4a284ca4-8d29-419b-9038-ef809c605ce2"
     },
     {
         "Catalog":  "Windows 10 1607",
@@ -99,9 +99,9 @@
         "AdditionalHash":  "87 47 49 87 83 203 29 25 123 177 93 172 55 129 20 128 212 253 227 140 57 53 182 61 106 92 248 248 131 110 52 247",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "5dc15ea6-ba78-4281-857b-5ca264e540db",
+        "OSDGuid":  "9aec7593-8cbf-4b9c-b853-627071dc9254",
         "PartitionKey":  "Windows 10 1607",
-        "RowKey":  "5dc15ea6-ba78-4281-857b-5ca264e540db"
+        "RowKey":  "9aec7593-8cbf-4b9c-b853-627071dc9254"
     },
     {
         "Catalog":  "Windows 10 1607",
@@ -151,9 +151,9 @@
         "AdditionalHash":  "88 86 206 71 216 77 222 78 246 188 250 223 218 200 30 131 183 149 23 163 46 62 122 8 15 104 110 10 15 194 51 155",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "c46eaec7-2f64-4cde-b738-2e3f24ee34fa",
+        "OSDGuid":  "d9135bdc-bf7a-4834-8717-610e9d0544dc",
         "PartitionKey":  "Windows 10 1607",
-        "RowKey":  "c46eaec7-2f64-4cde-b738-2e3f24ee34fa"
+        "RowKey":  "d9135bdc-bf7a-4834-8717-610e9d0544dc"
     },
     {
         "Catalog":  "Windows 10 1607",
@@ -203,9 +203,9 @@
         "AdditionalHash":  "249 105 238 123 100 88 185 223 159 245 183 151 84 105 48 31 157 120 10 156 45 244 144 168 211 54 137 244 121 104 122 238",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "f1e4aa10-bb24-4566-a18a-2bfeab7f83e0",
+        "OSDGuid":  "7bda08ae-0a1b-4643-9a26-0cf3e081ea4d",
         "PartitionKey":  "Windows 10 1607",
-        "RowKey":  "f1e4aa10-bb24-4566-a18a-2bfeab7f83e0"
+        "RowKey":  "7bda08ae-0a1b-4643-9a26-0cf3e081ea4d"
     },
     {
         "Catalog":  "Windows 10 1607",
@@ -255,9 +255,9 @@
         "AdditionalHash":  "100 196 82 210 218 123 102 75 58 133 132 27 92 150 233 147 217 190 47 178 40 176 145 253 24 238 20 47 62 127 70 200",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "406a9bb6-a696-4220-816d-cbdf5c7ebcd2",
+        "OSDGuid":  "abb44f0d-d2e8-46f0-a5f6-8912db127ff7",
         "PartitionKey":  "Windows 10 1607",
-        "RowKey":  "406a9bb6-a696-4220-816d-cbdf5c7ebcd2"
+        "RowKey":  "abb44f0d-d2e8-46f0-a5f6-8912db127ff7"
     },
     {
         "Catalog":  "Windows 10 1607",
@@ -307,9 +307,9 @@
         "AdditionalHash":  "25 197 13 117 94 52 137 163 225 93 212 255 115 250 89 114 72 151 172 161 184 157 82 250 129 253 113 241 112 74 58 30",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "df05b18f-38e9-4ce8-acdb-02400a94432f",
+        "OSDGuid":  "e2fe8211-b519-4934-a770-7b3dfa826b03",
         "PartitionKey":  "Windows 10 1607",
-        "RowKey":  "df05b18f-38e9-4ce8-acdb-02400a94432f"
+        "RowKey":  "e2fe8211-b519-4934-a770-7b3dfa826b03"
     },
     {
         "Catalog":  "Windows 10 1607",
@@ -359,9 +359,9 @@
         "AdditionalHash":  "132 177 162 172 213 48 193 124 156 242 82 114 193 123 91 13 253 78 8 37 85 65 162 150 152 59 32 190 113 246 57 33",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "3397ab4e-7b86-4b46-ab19-af13f2a78727",
+        "OSDGuid":  "67e767b2-3b66-4363-8c5e-b7c523b54320",
         "PartitionKey":  "Windows 10 1607",
-        "RowKey":  "3397ab4e-7b86-4b46-ab19-af13f2a78727"
+        "RowKey":  "67e767b2-3b66-4363-8c5e-b7c523b54320"
     },
     {
         "Catalog":  "Windows 10 1607",
@@ -411,9 +411,9 @@
         "AdditionalHash":  "160 2 192 49 79 91 132 97 244 141 201 161 203 229 125 55 7 28 64 234 96 87 23 197 147 237 151 244 91 234 64 186",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "f9c0bac8-e510-482b-afc5-31f9bcf04b92",
+        "OSDGuid":  "b189cccc-bf51-4004-8202-8471fc31b851",
         "PartitionKey":  "Windows 10 1607",
-        "RowKey":  "f9c0bac8-e510-482b-afc5-31f9bcf04b92"
+        "RowKey":  "b189cccc-bf51-4004-8202-8471fc31b851"
     },
     {
         "Catalog":  "Windows 10 1607",
@@ -463,9 +463,9 @@
         "AdditionalHash":  "135 132 175 6 28 137 184 33 231 196 207 97 86 219 155 138 5 8 72 209 111 121 78 65 133 92 35 48 75 224 105 163",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "20e754d7-a5f3-4e8d-a068-7a10c5867109",
+        "OSDGuid":  "4bcb41c8-9dc9-4a5a-8f8d-7c8f9b329156",
         "PartitionKey":  "Windows 10 1607",
-        "RowKey":  "20e754d7-a5f3-4e8d-a068-7a10c5867109"
+        "RowKey":  "4bcb41c8-9dc9-4a5a-8f8d-7c8f9b329156"
     },
     {
         "Catalog":  "Windows 10 1607",
@@ -515,9 +515,9 @@
         "AdditionalHash":  "175 222 99 242 231 115 171 20 108 193 117 81 157 147 93 114 62 228 61 115 238 28 122 158 229 198 194 123 68 84 229 31",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "125894c5-d9a7-4ac0-a0fb-68afd37b4f99",
+        "OSDGuid":  "cdfbf348-9519-4cf6-b361-3ee8daa4a31e",
         "PartitionKey":  "Windows 10 1607",
-        "RowKey":  "125894c5-d9a7-4ac0-a0fb-68afd37b4f99"
+        "RowKey":  "cdfbf348-9519-4cf6-b361-3ee8daa4a31e"
     },
     {
         "Catalog":  "Windows 10 1607",
@@ -567,9 +567,9 @@
         "AdditionalHash":  "37 168 231 75 151 33 37 89 82 116 79 221 66 88 232 79 136 96 59 179 232 109 195 116 150 2 184 155 2 208 186 20",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "7dea87a6-0470-4489-a2ce-e0e1f53c6723",
+        "OSDGuid":  "dbfb8d6d-aa3f-4ada-b73c-5fa0bf76e0d8",
         "PartitionKey":  "Windows 10 1607",
-        "RowKey":  "7dea87a6-0470-4489-a2ce-e0e1f53c6723"
+        "RowKey":  "dbfb8d6d-aa3f-4ada-b73c-5fa0bf76e0d8"
     },
     {
         "Catalog":  "Windows 10 1607",
@@ -619,9 +619,9 @@
         "AdditionalHash":  "54 177 69 211 213 208 100 75 206 54 142 217 215 138 28 94 134 40 107 123 179 138 63 235 65 186 199 209 1 108 224 194",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "8539b557-61d9-47c6-b70f-ce282743ccb2",
+        "OSDGuid":  "d2d334ec-80a3-4df6-8e2b-35a60b166c66",
         "PartitionKey":  "Windows 10 1607",
-        "RowKey":  "8539b557-61d9-47c6-b70f-ce282743ccb2"
+        "RowKey":  "d2d334ec-80a3-4df6-8e2b-35a60b166c66"
     },
     {
         "Catalog":  "Windows 10 1607",
@@ -671,9 +671,9 @@
         "AdditionalHash":  "67 168 142 34 145 240 165 226 65 136 16 200 210 233 192 101 16 166 15 168 193 231 70 46 57 107 156 114 36 19 87 17",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "7994bdbb-faa7-47b5-95e6-9b24fe320993",
+        "OSDGuid":  "7bff6a7d-f731-45a0-af34-c44025752a04",
         "PartitionKey":  "Windows 10 1607",
-        "RowKey":  "7994bdbb-faa7-47b5-95e6-9b24fe320993"
+        "RowKey":  "7bff6a7d-f731-45a0-af34-c44025752a04"
     },
     {
         "Catalog":  "Windows 10 1607",
@@ -723,9 +723,9 @@
         "AdditionalHash":  "176 41 23 188 59 109 111 158 217 32 144 130 119 189 133 114 150 181 89 184 129 30 122 207 103 238 171 37 179 127 58 177",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "ac49cec3-798f-43ba-b620-a1579e501588",
+        "OSDGuid":  "b6cdb27d-c8be-43ec-85fe-e38560d7d564",
         "PartitionKey":  "Windows 10 1607",
-        "RowKey":  "ac49cec3-798f-43ba-b620-a1579e501588"
+        "RowKey":  "b6cdb27d-c8be-43ec-85fe-e38560d7d564"
     },
     {
         "Catalog":  "Windows 10 1607",
@@ -775,9 +775,9 @@
         "AdditionalHash":  "154 243 45 104 5 27 205 243 226 95 47 32 207 245 47 171 246 253 233 14 183 38 194 167 156 43 109 168 76 53 98 227",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "8db8e853-fbc7-42b6-b084-0e2a4ba5534a",
+        "OSDGuid":  "1e90d010-16b9-4ff3-b2cd-35b01e6643dd",
         "PartitionKey":  "Windows 10 1607",
-        "RowKey":  "8db8e853-fbc7-42b6-b084-0e2a4ba5534a"
+        "RowKey":  "1e90d010-16b9-4ff3-b2cd-35b01e6643dd"
     },
     {
         "Catalog":  "Windows 10 1607",
@@ -827,9 +827,9 @@
         "AdditionalHash":  "223 167 125 125 119 132 151 230 172 62 23 92 182 141 106 141 6 223 8 230 223 206 245 35 73 158 124 126 61 168 105 97",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "21065be7-2cf9-4453-9031-0df5632dd1d2",
+        "OSDGuid":  "ebfbcf73-cdf8-451b-be17-1816c543e296",
         "PartitionKey":  "Windows 10 1607",
-        "RowKey":  "21065be7-2cf9-4453-9031-0df5632dd1d2"
+        "RowKey":  "ebfbcf73-cdf8-451b-be17-1816c543e296"
     },
     {
         "Catalog":  "Windows 10 1607",
@@ -879,9 +879,9 @@
         "AdditionalHash":  "44 254 45 59 16 230 170 175 146 188 136 236 61 191 43 204 253 105 202 32 173 160 52 73 227 220 36 100 140 196 132 113",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "848edd39-1799-44b5-80af-58b6843b7bac",
+        "OSDGuid":  "f0281a3c-581d-439f-8188-fb74b1a423c4",
         "PartitionKey":  "Windows 10 1607",
-        "RowKey":  "848edd39-1799-44b5-80af-58b6843b7bac"
+        "RowKey":  "f0281a3c-581d-439f-8188-fb74b1a423c4"
     },
     {
         "Catalog":  "Windows 10 1607",
@@ -931,8 +931,8 @@
         "AdditionalHash":  "43 76 2 108 27 122 128 131 177 144 117 210 117 33 31 109 11 59 49 61 25 231 81 84 199 20 11 188 204 20 51 228",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "61e7a366-f534-4d0a-93fc-4d4181c0b40f",
+        "OSDGuid":  "a6e36743-4804-4faa-a8fd-00dd29a14f46",
         "PartitionKey":  "Windows 10 1607",
-        "RowKey":  "61e7a366-f534-4d0a-93fc-4d4181c0b40f"
+        "RowKey":  "a6e36743-4804-4faa-a8fd-00dd29a14f46"
     }
 ]

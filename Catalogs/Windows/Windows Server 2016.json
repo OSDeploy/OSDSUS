@@ -47,9 +47,9 @@
         "AdditionalHash":  "138 175 36 155 49 103 188 219 119 40 158 46 162 240 164 59 106 215 144 136 165 216 7 129 31 246 135 58 206 139 87 237",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "ade57293-379e-4f11-81b7-c88afb408871",
+        "OSDGuid":  "612c692b-86ea-4066-9a95-952aaea239fb",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "ade57293-379e-4f11-81b7-c88afb408871"
+        "RowKey":  "612c692b-86ea-4066-9a95-952aaea239fb"
     },
     {
         "Catalog":  "Windows Server 2016",
@@ -99,9 +99,9 @@
         "AdditionalHash":  "136 247 230 6 149 58 206 92 111 177 5 9 182 27 23 32 15 53 147 41 34 80 251 43 50 235 53 85 29 71 137 38",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "25662bca-7deb-4e0b-ab7e-e9000e7e6991",
+        "OSDGuid":  "f2d3c601-ac63-4793-9d0d-4bde8aa06f33",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "25662bca-7deb-4e0b-ab7e-e9000e7e6991"
+        "RowKey":  "f2d3c601-ac63-4793-9d0d-4bde8aa06f33"
     },
     {
         "Catalog":  "Windows Server 2016",
@@ -151,9 +151,9 @@
         "AdditionalHash":  "221 96 195 53 243 208 90 15 231 212 161 121 62 218 225 168 129 201 222 185 7 204 100 202 185 249 58 101 100 78 93 32",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "00f3c196-8bcc-413b-a960-c852c65d7c9a",
+        "OSDGuid":  "e487e07b-9c8c-47d3-ade9-6a2a80c05446",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "00f3c196-8bcc-413b-a960-c852c65d7c9a"
+        "RowKey":  "e487e07b-9c8c-47d3-ade9-6a2a80c05446"
     },
     {
         "Catalog":  "Windows Server 2016",
@@ -203,9 +203,9 @@
         "AdditionalHash":  "88 225 86 188 222 55 6 126 53 135 79 174 34 183 236 114 53 82 141 207 151 55 206 227 58 135 83 26 77 241 70 204",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "dcbd27d3-8435-452d-840f-f20231100d87",
+        "OSDGuid":  "cbd44b69-3941-48af-87c5-fefee1d3ba89",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "dcbd27d3-8435-452d-840f-f20231100d87"
+        "RowKey":  "cbd44b69-3941-48af-87c5-fefee1d3ba89"
     },
     {
         "Catalog":  "Windows Server 2016",
@@ -255,9 +255,9 @@
         "AdditionalHash":  "58 12 14 59 39 224 20 74 214 200 20 11 128 111 162 57 181 224 211 41 157 171 85 24 51 246 133 21 156 87 182 43",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "4b5f2440-129e-498c-9522-d5cba8735209",
+        "OSDGuid":  "6f0214c7-273f-41c6-8334-8424849c7f1c",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "4b5f2440-129e-498c-9522-d5cba8735209"
+        "RowKey":  "6f0214c7-273f-41c6-8334-8424849c7f1c"
     },
     {
         "Catalog":  "Windows Server 2016",
@@ -307,9 +307,9 @@
         "AdditionalHash":  "99 88 114 146 122 67 69 93 103 137 253 90 145 130 134 179 115 68 168 78 85 155 154 170 124 27 128 140 61 83 36 92",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "738aa3d1-5550-4793-a667-2655add21760",
+        "OSDGuid":  "6da7a267-eefb-4b05-931c-3ada50886fbb",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "738aa3d1-5550-4793-a667-2655add21760"
+        "RowKey":  "6da7a267-eefb-4b05-931c-3ada50886fbb"
     },
     {
         "Catalog":  "Windows Server 2016",
@@ -359,9 +359,9 @@
         "AdditionalHash":  "48 73 46 99 138 198 132 28 161 182 159 12 110 230 245 188 44 46 219 7 128 97 94 40 57 110 31 28 237 153 93 40",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "b4a0e05d-8b58-4cff-8771-f9b52829a334",
+        "OSDGuid":  "2e96ecec-a65c-41ac-8e8d-3773cb7eba40",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "b4a0e05d-8b58-4cff-8771-f9b52829a334"
+        "RowKey":  "2e96ecec-a65c-41ac-8e8d-3773cb7eba40"
     },
     {
         "Catalog":  "Windows Server 2016",
@@ -411,9 +411,9 @@
         "AdditionalHash":  "8 107 75 200 170 235 28 246 99 12 20 39 175 136 64 82 162 50 63 191 147 40 105 9 223 72 177 3 52 48 97 18",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "6e1e51a5-6b95-4aad-9314-d79a143c02f0",
+        "OSDGuid":  "6542583e-d5af-4c6c-9a9b-bca4f8b6e14c",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "6e1e51a5-6b95-4aad-9314-d79a143c02f0"
+        "RowKey":  "6542583e-d5af-4c6c-9a9b-bca4f8b6e14c"
     },
     {
         "Catalog":  "Windows Server 2016",
@@ -463,9 +463,9 @@
         "AdditionalHash":  "67 138 186 172 63 240 115 29 112 97 86 125 94 183 62 196 208 72 95 28 170 2 195 134 185 96 31 44 130 113 161 69",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "0ac9a4df-9595-4162-a01b-36324ddf8c31",
+        "OSDGuid":  "283c913f-baff-4f51-992c-14c8a8bfd46e",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "0ac9a4df-9595-4162-a01b-36324ddf8c31"
+        "RowKey":  "283c913f-baff-4f51-992c-14c8a8bfd46e"
     },
     {
         "Catalog":  "Windows Server 2016",
@@ -515,9 +515,9 @@
         "AdditionalHash":  "177 85 61 166 1 0 108 117 253 73 24 54 16 177 244 117 45 208 236 73 156 118 222 216 92 26 243 94 65 215 17 29",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "3458868d-4060-4db2-80e3-11980f03efc3",
+        "OSDGuid":  "ee30c1c5-e5db-42e1-a57c-cfc7d87370e3",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "3458868d-4060-4db2-80e3-11980f03efc3"
+        "RowKey":  "ee30c1c5-e5db-42e1-a57c-cfc7d87370e3"
     },
     {
         "Catalog":  "Windows Server 2016",
@@ -567,9 +567,9 @@
         "AdditionalHash":  "230 249 17 184 208 81 43 188 106 16 90 149 169 119 246 236 216 99 4 144 156 71 27 12 147 2 14 89 83 17 116 253",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "e77c08df-990a-40fb-9933-3a34d155306e",
+        "OSDGuid":  "82d8a022-9c96-4c60-ae1d-e4a70766f451",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "e77c08df-990a-40fb-9933-3a34d155306e"
+        "RowKey":  "82d8a022-9c96-4c60-ae1d-e4a70766f451"
     },
     {
         "Catalog":  "Windows Server 2016",
@@ -619,9 +619,9 @@
         "AdditionalHash":  "88 86 206 71 216 77 222 78 246 188 250 223 218 200 30 131 183 149 23 163 46 62 122 8 15 104 110 10 15 194 51 155",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "b32c030d-d7ad-4a6d-ba0c-3ded43eba61d",
+        "OSDGuid":  "e76c8d15-383c-40c7-a98b-c0c3b99d6e32",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "b32c030d-d7ad-4a6d-ba0c-3ded43eba61d"
+        "RowKey":  "e76c8d15-383c-40c7-a98b-c0c3b99d6e32"
     },
     {
         "Catalog":  "Windows Server 2016",
@@ -671,9 +671,9 @@
         "AdditionalHash":  "100 196 82 210 218 123 102 75 58 133 132 27 92 150 233 147 217 190 47 178 40 176 145 253 24 238 20 47 62 127 70 200",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "378a5bbb-84c1-42d1-9979-5519216e6710",
+        "OSDGuid":  "c4a2ea37-0b04-40fe-835b-974a24bd163f",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "378a5bbb-84c1-42d1-9979-5519216e6710"
+        "RowKey":  "c4a2ea37-0b04-40fe-835b-974a24bd163f"
     },
     {
         "Catalog":  "Windows Server 2016",
@@ -723,9 +723,9 @@
         "AdditionalHash":  "57 158 151 6 78 169 7 41 233 131 212 18 183 70 149 170 45 161 231 8 74 232 82 140 83 232 247 188 33 17 68 141",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "aac56817-0717-4cc3-a6ab-0d768550714d",
+        "OSDGuid":  "7e15b505-43e3-48b0-ae30-de87f8e16da5",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "aac56817-0717-4cc3-a6ab-0d768550714d"
+        "RowKey":  "7e15b505-43e3-48b0-ae30-de87f8e16da5"
     },
     {
         "Catalog":  "Windows Server 2016",
@@ -775,9 +775,9 @@
         "AdditionalHash":  "175 222 99 242 231 115 171 20 108 193 117 81 157 147 93 114 62 228 61 115 238 28 122 158 229 198 194 123 68 84 229 31",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "a3290a84-9261-4133-a3b7-7ad476dbcb3d",
+        "OSDGuid":  "75505112-a423-494e-8087-f840994dcb4b",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "a3290a84-9261-4133-a3b7-7ad476dbcb3d"
+        "RowKey":  "75505112-a423-494e-8087-f840994dcb4b"
     },
     {
         "Catalog":  "Windows Server 2016",
@@ -827,9 +827,9 @@
         "AdditionalHash":  "37 168 231 75 151 33 37 89 82 116 79 221 66 88 232 79 136 96 59 179 232 109 195 116 150 2 184 155 2 208 186 20",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "fc657cae-9985-4942-b372-97dfa6644a28",
+        "OSDGuid":  "a293a52a-8b01-4bee-aaff-47e8aa0701be",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "fc657cae-9985-4942-b372-97dfa6644a28"
+        "RowKey":  "a293a52a-8b01-4bee-aaff-47e8aa0701be"
     },
     {
         "Catalog":  "Windows Server 2016",
@@ -879,9 +879,9 @@
         "AdditionalHash":  "67 168 142 34 145 240 165 226 65 136 16 200 210 233 192 101 16 166 15 168 193 231 70 46 57 107 156 114 36 19 87 17",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "23ee5f3d-4cfa-41d4-b951-19283b642162",
+        "OSDGuid":  "23660a4e-f8e9-4764-b6bf-693ba43a62d9",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "23ee5f3d-4cfa-41d4-b951-19283b642162"
+        "RowKey":  "23660a4e-f8e9-4764-b6bf-693ba43a62d9"
     },
     {
         "Catalog":  "Windows Server 2016",
@@ -931,9 +931,9 @@
         "AdditionalHash":  "223 167 125 125 119 132 151 230 172 62 23 92 182 141 106 141 6 223 8 230 223 206 245 35 73 158 124 126 61 168 105 97",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "38c5973e-6c3c-4ff7-9f22-99d8042908fb",
+        "OSDGuid":  "85935fed-5a8e-45fc-95b4-64fa92b7c06e",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "38c5973e-6c3c-4ff7-9f22-99d8042908fb"
+        "RowKey":  "85935fed-5a8e-45fc-95b4-64fa92b7c06e"
     },
     {
         "Catalog":  "Windows Server 2016",
@@ -983,8 +983,8 @@
         "AdditionalHash":  "44 254 45 59 16 230 170 175 146 188 136 236 61 191 43 204 253 105 202 32 173 160 52 73 227 220 36 100 140 196 132 113",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "548a1ff8-2804-4a59-86b5-626f54db5218",
+        "OSDGuid":  "28229916-b3d8-4c25-adcc-35b41bf1fe89",
         "PartitionKey":  "Windows Server 2016",
-        "RowKey":  "548a1ff8-2804-4a59-86b5-626f54db5218"
+        "RowKey":  "28229916-b3d8-4c25-adcc-35b41bf1fe89"
     }
 ]
