@@ -7,7 +7,7 @@
 RootModule = 'OSDSUS.psm1'
 
 # Version number of his module.
-ModuleVersion = '23.4.25.1'
+ModuleVersion = '23.4.12.2'
 
 # Supported PSEditions
 CompatiblePSEditions = @('Desktop')
@@ -22,7 +22,7 @@ Author = 'David Segura @SeguraOSD'
 CompanyName = 'osdeploy.com'
 
 # Copyright statement for this module
-Copyright = '(c) 2022 David Segura osdeploy.com. All rights reserved.'
+Copyright = '(c) 2023 David Segura osdeploy.com. All rights reserved.'
 
 # Description of the functionality provided by this module
 Description = @'
