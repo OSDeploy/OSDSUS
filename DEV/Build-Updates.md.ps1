@@ -1,8 +1,24 @@
-Import-Module OSDSUS -Force
-$AllOSDUpdates = @()
-$AllUpdateCatalogs = Get-ChildItem -Path "$PSScriptRoot\*" -Include '*.xml' -Recurse
-foreach ($UpdateCatalog in $AllUpdateCatalogs) {$AllOSDUpdates += Import-Clixml -Path "$($UpdateCatalog.FullName)"}
+#Requires -RunAsAdministrator
 
-$AllOSDUpdates = $AllOSDUpdates | Select-Object -Property * | Sort-Object -Property Title -Unique | Sort-Object CreationDate -Descending #| Out-GridView -PassThru -Title "All OSDUpdates"
-Write-Host ""
-$AllOSDUpdates | Select-Object -Property CreationDate, KBNumber, Title | Sort @{Expression = {$_.CreationDate}; Ascending = $false}, KBNumber, Title | Out-File D:\GitHub\MyModules\OSDSUS\UPDATES.md
+# Import OSDSUS Module
+Import-Module OSDSUS -Force -ErrorAction Stop
+
+# OSDSUS Module Path
+$OSDModulePath = (Get-Module -Name OSDSUS -ListAvailable | Sort-Object Version -Descending | Select-Object -First 1).ModuleBase
+
+# Get WSUSXML Updates
+$WSUSXMLUpdates = @()
+$AllUpdateCatalogs = Get-ChildItem -Path "$OSDModulePath\Catalogs\*" -Include '*.xml' -Recurse
+
+foreach ($UpdateCatalog in $AllUpdateCatalogs) {
+    $WSUSXMLUpdates += Import-Clixml -Path "$($UpdateCatalog.FullName)"
+}
+
+$WSUSXMLUpdates = $WSUSXMLUpdates | `
+    Select-Object -Property * | `
+    Sort-Object -Property Title -Unique | `
+    Sort-Object CreationDate -Descending #| Out-GridView -PassThru -Title "All OSDUpdates"
+
+$WSUSXMLUpdates | Select-Object -Property CreationDate, KBNumber, Title | `
+    Sort-Object @{Expression = { $_.CreationDate }; Ascending = $false }, KBNumber, Title | `
+    Out-File $OSDModulePath\UPDATES.md
