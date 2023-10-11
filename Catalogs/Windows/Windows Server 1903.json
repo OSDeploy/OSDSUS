@@ -1,7 +1,7 @@
 [
     {
         "Catalog":  "Windows Server 1903",
-        "OSDVersion":  "23.9.13.1",
+        "OSDVersion":  "23.10.10.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1903",
@@ -47,13 +47,13 @@
         "AdditionalHash":  "34 105 207 144 31 91 228 96 61 10 183 99 77 116 67 5 148 98 125 211 53 242 157 140 82 33 233 0 23 211 97 12",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "330adc2d-1ab4-4079-8a78-35fe39906773",
+        "OSDGuid":  "519a52bc-7046-489f-a00c-f638818c4ee0",
         "PartitionKey":  "Windows Server 1903",
-        "RowKey":  "330adc2d-1ab4-4079-8a78-35fe39906773"
+        "RowKey":  "519a52bc-7046-489f-a00c-f638818c4ee0"
     },
     {
         "Catalog":  "Windows Server 1903",
-        "OSDVersion":  "23.9.13.1",
+        "OSDVersion":  "23.10.10.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1903",
@@ -99,13 +99,13 @@
         "AdditionalHash":  "21 171 63 0 30 161 162 30 34 63 129 132 11 63 191 176 210 27 202 99 152 129 106 120 117 10 44 207 238 58 156 222",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "5b3d30d6-46ec-4423-98d2-f5249c5d7c62",
+        "OSDGuid":  "7d6124c6-aa99-4725-964d-b77d931bf83a",
         "PartitionKey":  "Windows Server 1903",
-        "RowKey":  "5b3d30d6-46ec-4423-98d2-f5249c5d7c62"
+        "RowKey":  "7d6124c6-aa99-4725-964d-b77d931bf83a"
     },
     {
         "Catalog":  "Windows Server 1903",
-        "OSDVersion":  "23.9.13.1",
+        "OSDVersion":  "23.10.10.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1903",
@@ -151,13 +151,13 @@
         "AdditionalHash":  "72 48 117 60 99 170 46 130 182 160 33 100 125 84 126 157 180 0 195 165 104 1 211 248 196 159 151 54 181 153 79 198",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "b2f9dede-0fa8-4bab-b562-a704fb93f4b7",
+        "OSDGuid":  "88cddd7b-b39c-4e2b-a8f9-f2267fb0eae9",
         "PartitionKey":  "Windows Server 1903",
-        "RowKey":  "b2f9dede-0fa8-4bab-b562-a704fb93f4b7"
+        "RowKey":  "88cddd7b-b39c-4e2b-a8f9-f2267fb0eae9"
     },
     {
         "Catalog":  "Windows Server 1903",
-        "OSDVersion":  "23.9.13.1",
+        "OSDVersion":  "23.10.10.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1903",
@@ -203,13 +203,13 @@
         "AdditionalHash":  "204 76 169 127 223 167 244 198 187 131 42 99 195 52 196 33 173 254 255 229 243 25 18 196 249 219 71 185 190 185 64 79",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "e99043b1-bed6-4394-9d4b-91125662c1b5",
+        "OSDGuid":  "c301965e-c20b-4eb4-ad66-e236a1b6b1d5",
         "PartitionKey":  "Windows Server 1903",
-        "RowKey":  "e99043b1-bed6-4394-9d4b-91125662c1b5"
+        "RowKey":  "c301965e-c20b-4eb4-ad66-e236a1b6b1d5"
     },
     {
         "Catalog":  "Windows Server 1903",
-        "OSDVersion":  "23.9.13.1",
+        "OSDVersion":  "23.10.10.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1903",
@@ -255,13 +255,13 @@
         "AdditionalHash":  "121 149 235 47 33 236 240 160 84 121 252 234 80 26 182 216 64 52 49 169 0 62 222 48 68 243 166 194 159 21 250 217",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "6fb81dfd-e16f-409f-a35f-9cd70d8e3915",
+        "OSDGuid":  "1ae20cbb-e912-4f90-9551-20dd57979ca6",
         "PartitionKey":  "Windows Server 1903",
-        "RowKey":  "6fb81dfd-e16f-409f-a35f-9cd70d8e3915"
+        "RowKey":  "1ae20cbb-e912-4f90-9551-20dd57979ca6"
     },
     {
         "Catalog":  "Windows Server 1903",
-        "OSDVersion":  "23.9.13.1",
+        "OSDVersion":  "23.10.10.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1903",
@@ -307,8 +307,8 @@
         "AdditionalHash":  "154 14 96 237 85 181 224 206 32 1 76 25 222 76 19 127 166 49 88 10 12 255 186 207 173 147 2 24 200 208 43 250",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "8ec88c7f-3758-4af7-b89a-57cce1d549aa",
+        "OSDGuid":  "dbb694d1-366d-4a69-8fa2-045b00cd9173",
         "PartitionKey":  "Windows Server 1903",
-        "RowKey":  "8ec88c7f-3758-4af7-b89a-57cce1d549aa"
+        "RowKey":  "dbb694d1-366d-4a69-8fa2-045b00cd9173"
     }
 ]
