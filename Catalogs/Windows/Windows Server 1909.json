@@ -1,7 +1,7 @@
 [
     {
         "Catalog":  "Windows Server 1909",
-        "OSDVersion":  "23.10.10.1",
+        "OSDVersion":  "23.11.19.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1909",
@@ -47,13 +47,13 @@
         "AdditionalHash":  "34 105 207 144 31 91 228 96 61 10 183 99 77 116 67 5 148 98 125 211 53 242 157 140 82 33 233 0 23 211 97 12",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "a2973883-0237-4bf4-9bd5-6a0c5eac511e",
+        "OSDGuid":  "c7416fd0-69c0-4263-a396-373c1cb510d3",
         "PartitionKey":  "Windows Server 1909",
-        "RowKey":  "a2973883-0237-4bf4-9bd5-6a0c5eac511e"
+        "RowKey":  "c7416fd0-69c0-4263-a396-373c1cb510d3"
     },
     {
         "Catalog":  "Windows Server 1909",
-        "OSDVersion":  "23.10.10.1",
+        "OSDVersion":  "23.11.19.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1909",
@@ -99,13 +99,13 @@
         "AdditionalHash":  "21 171 63 0 30 161 162 30 34 63 129 132 11 63 191 176 210 27 202 99 152 129 106 120 117 10 44 207 238 58 156 222",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "e29fa12f-5692-47e4-bb9a-e74c7e5508b6",
+        "OSDGuid":  "4c4e86f8-ab2c-49e8-95b3-5ccff4b193c6",
         "PartitionKey":  "Windows Server 1909",
-        "RowKey":  "e29fa12f-5692-47e4-bb9a-e74c7e5508b6"
+        "RowKey":  "4c4e86f8-ab2c-49e8-95b3-5ccff4b193c6"
     },
     {
         "Catalog":  "Windows Server 1909",
-        "OSDVersion":  "23.10.10.1",
+        "OSDVersion":  "23.11.19.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1909",
@@ -151,13 +151,13 @@
         "AdditionalHash":  "205 104 91 255 240 253 61 88 127 112 49 187 232 87 33 102 22 179 117 204 137 10 12 75 156 150 230 190 46 178 212 100",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "d5a9e44f-de96-4e36-aeb2-328fe1f4cf4e",
+        "OSDGuid":  "c274609b-860f-4f11-9f1f-b4ba4935da65",
         "PartitionKey":  "Windows Server 1909",
-        "RowKey":  "d5a9e44f-de96-4e36-aeb2-328fe1f4cf4e"
+        "RowKey":  "c274609b-860f-4f11-9f1f-b4ba4935da65"
     },
     {
         "Catalog":  "Windows Server 1909",
-        "OSDVersion":  "23.10.10.1",
+        "OSDVersion":  "23.11.19.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1909",
@@ -203,13 +203,13 @@
         "AdditionalHash":  "219 19 101 253 143 132 6 200 64 166 78 44 90 94 248 58 192 205 134 124 6 205 207 21 43 63 204 73 164 242 5 161",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "532320db-2bdf-4d4b-b6a4-8aa691445fe1",
+        "OSDGuid":  "3cbbb461-e51c-4a5f-acaa-e3c0a7301e99",
         "PartitionKey":  "Windows Server 1909",
-        "RowKey":  "532320db-2bdf-4d4b-b6a4-8aa691445fe1"
+        "RowKey":  "3cbbb461-e51c-4a5f-acaa-e3c0a7301e99"
     },
     {
         "Catalog":  "Windows Server 1909",
-        "OSDVersion":  "23.10.10.1",
+        "OSDVersion":  "23.11.19.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1909",
@@ -255,13 +255,13 @@
         "AdditionalHash":  "121 32 239 254 155 14 72 195 167 82 175 237 43 82 8 185 195 216 240 165 206 136 151 66 99 84 25 74 112 170 120 95",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "be870934-7db1-4b50-81b9-20f9b8461f89",
+        "OSDGuid":  "5bedfcba-f12b-4bf6-a300-bcc47c53a2a7",
         "PartitionKey":  "Windows Server 1909",
-        "RowKey":  "be870934-7db1-4b50-81b9-20f9b8461f89"
+        "RowKey":  "5bedfcba-f12b-4bf6-a300-bcc47c53a2a7"
     },
     {
         "Catalog":  "Windows Server 1909",
-        "OSDVersion":  "23.10.10.1",
+        "OSDVersion":  "23.11.19.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1909",
@@ -307,13 +307,13 @@
         "AdditionalHash":  "132 251 234 103 175 240 207 160 10 76 50 204 175 138 70 13 213 16 183 199 230 95 92 137 139 188 7 247 26 209 236 41",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "df7a806b-8527-4fa4-bdbc-5f24fa2be75a",
+        "OSDGuid":  "0eae680c-7536-46cf-b3e9-f21ebfb2fd0a",
         "PartitionKey":  "Windows Server 1909",
-        "RowKey":  "df7a806b-8527-4fa4-bdbc-5f24fa2be75a"
+        "RowKey":  "0eae680c-7536-46cf-b3e9-f21ebfb2fd0a"
     },
     {
         "Catalog":  "Windows Server 1909",
-        "OSDVersion":  "23.10.10.1",
+        "OSDVersion":  "23.11.19.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1909",
@@ -359,13 +359,13 @@
         "AdditionalHash":  "24 208 141 104 80 122 32 93 255 184 7 199 93 101 16 160 183 177 198 166 14 108 134 134 107 182 239 86 171 179 87 243",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "32211e8c-5b39-4d73-95bb-ba87931c2259",
+        "OSDGuid":  "f5045155-521a-4e06-adba-780907e67a8a",
         "PartitionKey":  "Windows Server 1909",
-        "RowKey":  "32211e8c-5b39-4d73-95bb-ba87931c2259"
+        "RowKey":  "f5045155-521a-4e06-adba-780907e67a8a"
     },
     {
         "Catalog":  "Windows Server 1909",
-        "OSDVersion":  "23.10.10.1",
+        "OSDVersion":  "23.11.19.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "1909",
@@ -411,8 +411,8 @@
         "AdditionalHash":  "6 160 178 136 167 110 243 192 26 38 161 113 233 167 168 149 245 64 31 118 155 102 77 252 253 34 59 63 86 54 247 207",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "f059ebb9-b934-4066-80ec-fe7d9a7d97be",
+        "OSDGuid":  "2e4ad19c-7f78-4f14-a1ba-59bad9753bab",
         "PartitionKey":  "Windows Server 1909",
-        "RowKey":  "f059ebb9-b934-4066-80ec-fe7d9a7d97be"
+        "RowKey":  "2e4ad19c-7f78-4f14-a1ba-59bad9753bab"
     }
 ]
