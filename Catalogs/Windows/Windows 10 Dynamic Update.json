@@ -1,7 +1,7 @@
 [
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1607",
@@ -47,13 +47,13 @@
         "AdditionalHash":  "192 149 5 230 238 161 94 200 184 71 214 189 108 202 19 148 66 113 219 156 184 245 134 20 213 207 12 5 159 109 81 27",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "bc113983-4b98-4dd5-9517-52a8a087dd59",
+        "OSDGuid":  "e1f3f654-0abc-49b1-9db7-d46f1b6b8178",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "bc113983-4b98-4dd5-9517-52a8a087dd59"
+        "RowKey":  "e1f3f654-0abc-49b1-9db7-d46f1b6b8178"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1607",
@@ -99,13 +99,13 @@
         "AdditionalHash":  "167 189 183 157 28 95 189 144 183 58 228 200 220 146 44 89 32 76 138 61 45 52 144 201 10 206 191 215 71 196 190 236",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "be2b93a9-b260-49f9-beb9-7e2bdc7a47b7",
+        "OSDGuid":  "61b7ce29-d791-4c78-87b7-d15a044ff555",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "be2b93a9-b260-49f9-beb9-7e2bdc7a47b7"
+        "RowKey":  "61b7ce29-d791-4c78-87b7-d15a044ff555"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1607",
@@ -151,13 +151,13 @@
         "AdditionalHash":  "165 135 242 170 5 126 215 252 94 187 219 188 72 14 16 176 111 140 17 223 246 76 51 159 229 154 105 167 140 71 119 127",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "a0d095fd-94b3-472c-afad-1b5d043ae5d4",
+        "OSDGuid":  "e9935791-7214-41bf-afd9-9627e7023659",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "a0d095fd-94b3-472c-afad-1b5d043ae5d4"
+        "RowKey":  "e9935791-7214-41bf-afd9-9627e7023659"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1607",
@@ -203,13 +203,13 @@
         "AdditionalHash":  "52 217 18 253 221 62 167 132 201 84 140 154 29 223 169 174 50 140 30 106 116 214 69 253 58 112 108 206 173 46 2 51",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "b013596b-1623-465e-bfdb-a657a608a585",
+        "OSDGuid":  "60623cca-6691-4335-a8c2-698068aca15d",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "b013596b-1623-465e-bfdb-a657a608a585"
+        "RowKey":  "60623cca-6691-4335-a8c2-698068aca15d"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1607",
@@ -255,13 +255,13 @@
         "AdditionalHash":  "63 26 238 132 189 65 184 82 103 148 42 210 99 238 108 232 46 230 142 159 3 104 132 121 246 250 51 118 139 46 64 241",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "15bdd33a-3130-40c4-bf3f-745fb48048b8",
+        "OSDGuid":  "8fadcce6-4a78-4b74-ad7a-4243646290bd",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "15bdd33a-3130-40c4-bf3f-745fb48048b8"
+        "RowKey":  "8fadcce6-4a78-4b74-ad7a-4243646290bd"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1607",
@@ -307,13 +307,13 @@
         "AdditionalHash":  "226 191 173 246 217 248 240 119 62 23 159 121 214 225 190 68 109 228 251 151 91 236 69 179 241 12 57 13 189 253 183 236",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "dae3315b-ab77-4f37-8963-3c3435915669",
+        "OSDGuid":  "be8daac2-9cda-4f5d-9010-630f7c290984",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "dae3315b-ab77-4f37-8963-3c3435915669"
+        "RowKey":  "be8daac2-9cda-4f5d-9010-630f7c290984"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1607",
@@ -359,13 +359,13 @@
         "AdditionalHash":  "9 88 199 243 246 5 196 25 218 10 191 31 164 125 180 56 144 160 222 49 82 133 89 117 4 143 127 231 96 207 214 228",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "78fb4407-15ad-4a5b-babc-c65989d8bdb8",
+        "OSDGuid":  "3fd5a2cf-b04f-4676-b250-a4a516aa8661",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "78fb4407-15ad-4a5b-babc-c65989d8bdb8"
+        "RowKey":  "3fd5a2cf-b04f-4676-b250-a4a516aa8661"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1703",
@@ -411,13 +411,13 @@
         "AdditionalHash":  "73 219 38 238 180 109 238 193 153 169 194 86 221 224 130 2 123 209 151 133 6 30 214 103 241 137 5 208 197 172 204 3",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "2bba51a4-5867-4bbf-90df-f0d079463d7a",
+        "OSDGuid":  "beabac89-785a-415a-9c56-b77f209e6dc3",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "2bba51a4-5867-4bbf-90df-f0d079463d7a"
+        "RowKey":  "beabac89-785a-415a-9c56-b77f209e6dc3"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1703",
@@ -463,13 +463,13 @@
         "AdditionalHash":  "236 50 252 66 99 66 98 40 174 102 92 54 40 127 190 27 215 138 80 164 214 65 253 250 78 158 90 47 92 176 244 240",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "d518b58d-837a-4382-859c-2ea1e94aba6a",
+        "OSDGuid":  "8609f396-af54-4753-a1d8-461bc13f46d3",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "d518b58d-837a-4382-859c-2ea1e94aba6a"
+        "RowKey":  "8609f396-af54-4753-a1d8-461bc13f46d3"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1607",
@@ -515,13 +515,13 @@
         "AdditionalHash":  "3 222 229 97 4 236 252 220 73 102 221 102 196 242 75 195 56 17 152 204 101 160 17 252 142 91 90 180 83 218 73 10",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "46a9f1fd-eabd-4e36-81b8-0b9a0acb7a47",
+        "OSDGuid":  "ae3aa132-5f49-4a63-93b3-79931041e462",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "46a9f1fd-eabd-4e36-81b8-0b9a0acb7a47"
+        "RowKey":  "ae3aa132-5f49-4a63-93b3-79931041e462"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1607",
@@ -567,13 +567,13 @@
         "AdditionalHash":  "188 251 173 81 13 168 163 66 132 216 29 24 71 126 207 166 70 48 243 78 103 42 136 31 86 29 132 224 69 242 70 69",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "7c346a1a-436b-4366-9525-e432df50be1d",
+        "OSDGuid":  "a3ae975f-3d84-41c2-897c-a342b20f1554",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "7c346a1a-436b-4366-9525-e432df50be1d"
+        "RowKey":  "a3ae975f-3d84-41c2-897c-a342b20f1554"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1709",
@@ -619,13 +619,13 @@
         "AdditionalHash":  "173 247 195 215 167 22 234 161 190 142 175 100 69 189 171 130 132 46 17 157 213 247 122 39 238 255 72 109 227 6 164 62",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "ee93ce47-ca91-4e46-9a05-7d1068f89981",
+        "OSDGuid":  "fae7a9a4-e6ab-4d2d-bdc6-80c4a064b82b",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "ee93ce47-ca91-4e46-9a05-7d1068f89981"
+        "RowKey":  "fae7a9a4-e6ab-4d2d-bdc6-80c4a064b82b"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1709",
@@ -671,13 +671,13 @@
         "AdditionalHash":  "33 255 218 159 197 121 200 55 237 27 250 221 60 146 148 228 57 35 135 16 35 85 201 207 184 193 165 6 196 112 239 60",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "83ecdd17-b5e8-48c0-8d24-9f4fb9870323",
+        "OSDGuid":  "fbffc543-a8c3-4674-8075-38eae0ffe9de",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "83ecdd17-b5e8-48c0-8d24-9f4fb9870323"
+        "RowKey":  "fbffc543-a8c3-4674-8075-38eae0ffe9de"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1709",
@@ -723,13 +723,13 @@
         "AdditionalHash":  "22 21 188 114 109 69 178 179 197 173 79 7 93 171 232 94 67 67 215 148 110 34 185 92 234 151 96 196 228 104 60 228",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "81847c06-63b9-415a-be0f-ee0a4f938445",
+        "OSDGuid":  "691373c9-4da4-4fa5-a104-205d92ccac45",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "81847c06-63b9-415a-be0f-ee0a4f938445"
+        "RowKey":  "691373c9-4da4-4fa5-a104-205d92ccac45"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1709",
@@ -775,13 +775,13 @@
         "AdditionalHash":  "166 136 58 1 247 225 194 11 20 237 146 22 68 15 114 94 217 149 97 200 254 27 185 25 184 2 224 250 158 224 61 88",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "ea7ce984-84f5-4999-8433-fa5dca4608df",
+        "OSDGuid":  "7d17b2bb-6718-4928-bcfd-36244db26f8e",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "ea7ce984-84f5-4999-8433-fa5dca4608df"
+        "RowKey":  "7d17b2bb-6718-4928-bcfd-36244db26f8e"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1709",
@@ -827,13 +827,13 @@
         "AdditionalHash":  "47 162 215 21 77 247 63 149 41 188 135 244 55 22 94 253 179 16 36 45 76 237 172 149 94 112 126 118 143 141 109 216",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "90d66bc6-dc61-40bf-921b-968382adda17",
+        "OSDGuid":  "be6cf563-3fb7-4765-a202-c0c5564fc3b6",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "90d66bc6-dc61-40bf-921b-968382adda17"
+        "RowKey":  "be6cf563-3fb7-4765-a202-c0c5564fc3b6"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1709",
@@ -879,13 +879,13 @@
         "AdditionalHash":  "192 58 170 201 96 39 220 30 149 196 22 102 23 102 72 131 187 54 236 15 162 61 108 91 168 247 223 4 240 149 175 91",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "7181b7fb-c7ff-4d29-800b-2e207ebdcb8b",
+        "OSDGuid":  "74e2eb75-7f9b-4162-9f1b-1db485e15d7c",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "7181b7fb-c7ff-4d29-800b-2e207ebdcb8b"
+        "RowKey":  "74e2eb75-7f9b-4162-9f1b-1db485e15d7c"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1709",
@@ -931,13 +931,13 @@
         "AdditionalHash":  "111 77 125 152 250 49 157 108 121 185 158 173 122 157 221 93 249 43 22 144 8 43 27 98 5 220 159 185 119 162 141 217",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "01a0aba2-db0b-44e9-94f3-b91dc827d323",
+        "OSDGuid":  "bffc7f8a-4b9a-4038-83a3-8bafb82b8a7b",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "01a0aba2-db0b-44e9-94f3-b91dc827d323"
+        "RowKey":  "bffc7f8a-4b9a-4038-83a3-8bafb82b8a7b"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1709",
@@ -983,13 +983,13 @@
         "AdditionalHash":  "3 244 181 195 155 162 236 106 251 222 250 171 203 191 68 13 207 114 174 23 150 5 105 190 111 170 235 78 125 70 80 58",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "3de28e86-e878-48af-ae28-68956b8ae77f",
+        "OSDGuid":  "86d2ca07-8ff8-4672-858e-f596c017b2b1",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "3de28e86-e878-48af-ae28-68956b8ae77f"
+        "RowKey":  "86d2ca07-8ff8-4672-858e-f596c017b2b1"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1709",
@@ -1035,13 +1035,13 @@
         "AdditionalHash":  "67 75 92 141 58 34 58 77 55 157 182 146 1 119 9 157 184 30 33 83 160 70 26 169 224 100 54 107 30 205 197 200",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "72062a1a-3502-499f-8670-b622daa2d347",
+        "OSDGuid":  "4fe4e2ad-35d7-43ea-8478-f4724589e783",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "72062a1a-3502-499f-8670-b622daa2d347"
+        "RowKey":  "4fe4e2ad-35d7-43ea-8478-f4724589e783"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1709",
@@ -1087,13 +1087,13 @@
         "AdditionalHash":  "218 121 157 28 58 24 185 8 23 146 180 198 228 193 16 38 114 68 124 242 115 112 198 63 55 161 130 112 118 53 140 142",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "c9491937-e3ce-4d72-a055-8ca4747c2f95",
+        "OSDGuid":  "5fdfd0bb-14c8-47f3-b72c-8f2b678668e1",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "c9491937-e3ce-4d72-a055-8ca4747c2f95"
+        "RowKey":  "5fdfd0bb-14c8-47f3-b72c-8f2b678668e1"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1803",
@@ -1139,13 +1139,13 @@
         "AdditionalHash":  "222 82 180 69 222 16 254 247 196 132 139 156 97 118 83 51 160 253 122 0 83 145 3 225 198 249 55 242 131 96 131 241",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "247c6416-a12e-475d-b6b8-1e93f8371dae",
+        "OSDGuid":  "a5b55a3a-f56c-4ba9-a2a0-4841ae32a74a",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "247c6416-a12e-475d-b6b8-1e93f8371dae"
+        "RowKey":  "a5b55a3a-f56c-4ba9-a2a0-4841ae32a74a"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1803",
@@ -1191,13 +1191,13 @@
         "AdditionalHash":  "49 20 165 43 116 98 243 20 181 40 182 94 167 117 123 2 167 105 108 87 78 118 171 130 31 191 79 115 99 221 37 159",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "e19da2e3-eb17-42d7-9742-3ef4cd59e488",
+        "OSDGuid":  "6f2bd8bd-61aa-427e-900b-e96cd8d00119",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "e19da2e3-eb17-42d7-9742-3ef4cd59e488"
+        "RowKey":  "6f2bd8bd-61aa-427e-900b-e96cd8d00119"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1803",
@@ -1243,13 +1243,13 @@
         "AdditionalHash":  "205 12 92 168 123 229 176 112 79 58 135 210 73 0 127 69 168 218 113 244 16 245 68 250 96 205 216 81 85 210 62 249",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "8c8d1ae1-695c-47e3-b899-56dc8d807c80",
+        "OSDGuid":  "667183de-421a-40bc-ade2-ae44cd4b0772",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "8c8d1ae1-695c-47e3-b899-56dc8d807c80"
+        "RowKey":  "667183de-421a-40bc-ade2-ae44cd4b0772"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1803",
@@ -1295,13 +1295,13 @@
         "AdditionalHash":  "235 113 148 123 133 209 155 5 1 28 174 44 201 171 56 47 69 7 180 19 49 235 23 5 59 178 8 229 100 219 123 209",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "ae86bbf7-802d-4549-b126-8d5b350a009c",
+        "OSDGuid":  "85520990-8d8c-470a-870e-a82df4d24db1",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "ae86bbf7-802d-4549-b126-8d5b350a009c"
+        "RowKey":  "85520990-8d8c-470a-870e-a82df4d24db1"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1703",
@@ -1347,13 +1347,13 @@
         "AdditionalHash":  "13 176 28 45 5 251 220 72 231 147 219 194 231 243 110 227 35 95 24 242 29 161 116 201 174 186 94 57 171 67 158 245",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "afaf122a-b10d-448b-af09-4dec5200d476",
+        "OSDGuid":  "b0bd0f30-e845-42e1-8b42-989f31ec84b7",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "afaf122a-b10d-448b-af09-4dec5200d476"
+        "RowKey":  "b0bd0f30-e845-42e1-8b42-989f31ec84b7"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1703",
@@ -1399,13 +1399,13 @@
         "AdditionalHash":  "150 207 70 213 104 181 142 103 91 125 151 34 168 42 100 69 19 237 248 88 22 69 201 216 152 75 61 239 211 72 79 102",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "2cd71666-96d0-4450-b76d-198ca225306c",
+        "OSDGuid":  "15152f29-2bb8-4bf2-b163-5a281571244d",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "2cd71666-96d0-4450-b76d-198ca225306c"
+        "RowKey":  "15152f29-2bb8-4bf2-b163-5a281571244d"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1709",
@@ -1451,13 +1451,13 @@
         "AdditionalHash":  "89 225 142 155 54 140 109 93 72 219 12 144 117 31 29 3 45 207 32 196 113 134 139 58 145 148 225 202 156 25 18 86",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "684d36b2-3bd9-4742-a611-433e12b20246",
+        "OSDGuid":  "8e29dca1-9b14-4b94-a358-fe817b184dd0",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "684d36b2-3bd9-4742-a611-433e12b20246"
+        "RowKey":  "8e29dca1-9b14-4b94-a358-fe817b184dd0"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1709",
@@ -1503,13 +1503,13 @@
         "AdditionalHash":  "116 0 212 189 150 22 74 134 157 111 61 30 224 12 159 234 92 147 111 22 247 237 224 227 73 19 90 190 187 37 208 95",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "a200d8a1-af01-423e-bfe5-c977f79e2846",
+        "OSDGuid":  "57838a95-7f34-47ba-a14a-53f550b46a6e",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "a200d8a1-af01-423e-bfe5-c977f79e2846"
+        "RowKey":  "57838a95-7f34-47ba-a14a-53f550b46a6e"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1903",
@@ -1555,13 +1555,13 @@
         "AdditionalHash":  "150 153 249 42 9 175 135 39 215 205 224 13 133 15 197 122 255 113 55 23 141 113 141 109 102 165 130 122 92 65 236 194",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "7a3964f5-a78b-4cda-a9be-07a013471a16",
+        "OSDGuid":  "6343d6d1-e912-40ff-9e1f-a24e16617139",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "7a3964f5-a78b-4cda-a9be-07a013471a16"
+        "RowKey":  "6343d6d1-e912-40ff-9e1f-a24e16617139"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1903",
@@ -1607,13 +1607,13 @@
         "AdditionalHash":  "107 209 50 48 79 186 159 204 155 1 169 217 184 213 19 25 89 219 180 17 22 176 5 190 169 254 52 227 235 85 252 125",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "90ca57c2-09be-4c29-b24d-c441ff750f4b",
+        "OSDGuid":  "896ec4a9-dddf-4428-a87b-33df3f2b74a2",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "90ca57c2-09be-4c29-b24d-c441ff750f4b"
+        "RowKey":  "896ec4a9-dddf-4428-a87b-33df3f2b74a2"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1803",
@@ -1659,13 +1659,13 @@
         "AdditionalHash":  "245 254 8 235 159 109 205 250 134 57 209 225 19 69 206 66 152 152 254 142 17 165 51 34 183 185 90 235 189 9 16 218",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "819d3562-0333-461c-bd72-156af1f213c4",
+        "OSDGuid":  "75740e15-4937-495c-975a-c29617541cb1",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "819d3562-0333-461c-bd72-156af1f213c4"
+        "RowKey":  "75740e15-4937-495c-975a-c29617541cb1"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1803",
@@ -1711,13 +1711,13 @@
         "AdditionalHash":  "83 111 115 108 99 253 199 215 32 24 68 70 180 39 187 30 94 239 189 206 93 155 108 26 174 200 78 145 51 42 251 239",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "a0a5e3a9-19ed-48d0-947f-2be2cb6aa5ca",
+        "OSDGuid":  "3af8288a-beb0-4a1a-9793-32b43ed14f0f",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "a0a5e3a9-19ed-48d0-947f-2be2cb6aa5ca"
+        "RowKey":  "3af8288a-beb0-4a1a-9793-32b43ed14f0f"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1909",
@@ -1763,13 +1763,13 @@
         "AdditionalHash":  "126 131 234 215 52 117 24 179 194 97 50 14 178 237 41 108 15 122 244 127 95 64 16 34 100 115 47 232 203 186 103 179",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "57cacddd-a115-40ae-8e6e-8d77ea12f1d8",
+        "OSDGuid":  "2806a8a7-a3e2-44dd-b384-94c37b109663",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "57cacddd-a115-40ae-8e6e-8d77ea12f1d8"
+        "RowKey":  "2806a8a7-a3e2-44dd-b384-94c37b109663"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1909",
@@ -1815,13 +1815,13 @@
         "AdditionalHash":  "254 222 173 179 216 215 32 145 189 82 77 11 9 116 160 80 41 209 70 245 82 29 159 148 160 83 87 81 161 14 41 76",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "65f8f80c-e686-4014-bfbf-0dbf76f3db58",
+        "OSDGuid":  "5e58dd1a-d501-4a8d-ad15-bc46af3840a6",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "65f8f80c-e686-4014-bfbf-0dbf76f3db58"
+        "RowKey":  "5e58dd1a-d501-4a8d-ad15-bc46af3840a6"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1909",
@@ -1867,13 +1867,13 @@
         "AdditionalHash":  "136 209 21 146 183 205 180 167 160 101 181 91 176 85 166 157 141 41 33 158 169 246 157 79 69 147 245 11 70 157 241 2",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "f41cdfe1-75e3-4896-8845-9a95c755e987",
+        "OSDGuid":  "9e3df6d9-28a9-4e13-9dee-d33cff9c7599",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "f41cdfe1-75e3-4896-8845-9a95c755e987"
+        "RowKey":  "9e3df6d9-28a9-4e13-9dee-d33cff9c7599"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1909",
@@ -1919,13 +1919,13 @@
         "AdditionalHash":  "181 88 108 184 142 101 78 144 66 31 244 117 71 73 114 187 86 188 202 42 139 76 3 123 62 115 194 51 99 16 254 140",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "58b7b3e4-60ac-4289-b469-d518ccb503d7",
+        "OSDGuid":  "6c287fea-8a2c-4806-9ec2-5d6f94c6cbe7",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "58b7b3e4-60ac-4289-b469-d518ccb503d7"
+        "RowKey":  "6c287fea-8a2c-4806-9ec2-5d6f94c6cbe7"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "2004",
@@ -1971,13 +1971,13 @@
         "AdditionalHash":  "111 172 119 178 42 252 179 30 240 108 121 22 145 59 40 185 211 30 28 251 138 225 59 239 114 181 145 183 146 184 173 174",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "fe9203c2-9915-4e95-a151-6179621c50fd",
+        "OSDGuid":  "bbfe8274-1ced-41ba-b8c1-b6e95b98fa1d",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "fe9203c2-9915-4e95-a151-6179621c50fd"
+        "RowKey":  "bbfe8274-1ced-41ba-b8c1-b6e95b98fa1d"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "2004",
@@ -2023,13 +2023,13 @@
         "AdditionalHash":  "112 135 7 86 74 104 20 175 56 40 213 208 52 214 109 127 108 136 222 215 123 205 51 239 26 101 251 218 252 134 75 78",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "a86cd735-6ee6-4c7c-860c-1ea11b0892cd",
+        "OSDGuid":  "3e56614c-3840-4662-9c11-0bfc98988cc7",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "a86cd735-6ee6-4c7c-860c-1ea11b0892cd"
+        "RowKey":  "3e56614c-3840-4662-9c11-0bfc98988cc7"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "2004",
@@ -2075,13 +2075,13 @@
         "AdditionalHash":  "249 164 151 186 186 193 135 66 163 76 139 100 228 122 170 227 71 27 45 123 14 169 82 199 201 131 233 21 83 49 148 32",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "9497f514-060c-4253-a6ff-2bef9828742c",
+        "OSDGuid":  "adb1b41a-51dc-4f83-9eb4-843d65d86c97",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "9497f514-060c-4253-a6ff-2bef9828742c"
+        "RowKey":  "adb1b41a-51dc-4f83-9eb4-843d65d86c97"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "21H2",
@@ -2127,13 +2127,13 @@
         "AdditionalHash":  "220 210 234 116 187 118 31 245 248 31 63 193 79 122 73 158 149 91 174 249 250 121 92 202 88 116 28 57 245 185 69 205",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "861a0f9e-2dee-40fc-a9cb-29df583b5585",
+        "OSDGuid":  "0eb4c664-8d1f-4bf8-bd7f-fe6231e22ce8",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "861a0f9e-2dee-40fc-a9cb-29df583b5585"
+        "RowKey":  "0eb4c664-8d1f-4bf8-bd7f-fe6231e22ce8"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "2004",
@@ -2179,13 +2179,13 @@
         "AdditionalHash":  "149 90 62 44 54 47 78 218 104 208 138 62 87 107 191 163 166 163 245 101 42 87 182 51 237 107 100 97 214 203 116 67",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "60f21c1e-ff32-4f98-93cb-433aae146bc6",
+        "OSDGuid":  "0f37850e-d0ee-43e4-8fcc-b682d04f07ca",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "60f21c1e-ff32-4f98-93cb-433aae146bc6"
+        "RowKey":  "0f37850e-d0ee-43e4-8fcc-b682d04f07ca"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "2004",
@@ -2231,13 +2231,13 @@
         "AdditionalHash":  "76 162 174 246 147 99 19 19 29 134 113 253 119 57 147 27 102 237 231 42 242 143 191 111 235 20 124 177 114 29 188 38",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "1194c29a-28dd-4958-99f6-ccb3116a7e6d",
+        "OSDGuid":  "c071ebb1-c2ee-40a3-a4dc-578cceb6fb86",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "1194c29a-28dd-4958-99f6-ccb3116a7e6d"
+        "RowKey":  "c071ebb1-c2ee-40a3-a4dc-578cceb6fb86"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "20H2",
@@ -2283,13 +2283,13 @@
         "AdditionalHash":  "65 252 61 96 29 24 248 245 106 117 70 75 158 30 198 174 82 115 40 155 213 203 227 233 86 200 31 170 55 98 68 191",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "22b6688e-9f02-4146-bef3-d43b4dade836",
+        "OSDGuid":  "ae74d2c0-174c-431d-ac08-d4704d293e30",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "22b6688e-9f02-4146-bef3-d43b4dade836"
+        "RowKey":  "ae74d2c0-174c-431d-ac08-d4704d293e30"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "21H1",
@@ -2335,13 +2335,13 @@
         "AdditionalHash":  "21 168 189 53 125 145 152 229 218 12 68 214 61 20 230 90 185 117 30 157 237 128 145 116 41 117 180 68 163 203 8 254",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "5fea2191-c2d1-4963-b58e-933893fc0459",
+        "OSDGuid":  "589fbade-d3fc-484e-9d71-3e13e3e30e93",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "5fea2191-c2d1-4963-b58e-933893fc0459"
+        "RowKey":  "589fbade-d3fc-484e-9d71-3e13e3e30e93"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "21H1",
@@ -2387,13 +2387,13 @@
         "AdditionalHash":  "210 218 245 131 190 142 135 83 18 154 195 69 81 59 0 119 235 149 3 166 55 71 34 168 197 9 104 189 221 214 111 89",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "5ddc6faa-659a-43df-9faf-3eccacbd8fc8",
+        "OSDGuid":  "224681c5-33b7-4c52-a386-31bda9e5c658",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "5ddc6faa-659a-43df-9faf-3eccacbd8fc8"
+        "RowKey":  "224681c5-33b7-4c52-a386-31bda9e5c658"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "21H1",
@@ -2439,13 +2439,13 @@
         "AdditionalHash":  "114 154 164 10 21 249 82 94 212 245 22 85 238 7 183 189 255 97 84 137 113 67 124 30 179 105 211 147 59 33 15 172",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "5468cb17-64e3-40fa-8db9-8a03403e688f",
+        "OSDGuid":  "16a8364f-11e7-4297-b562-71ba5959d5f4",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "5468cb17-64e3-40fa-8db9-8a03403e688f"
+        "RowKey":  "16a8364f-11e7-4297-b562-71ba5959d5f4"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "20H2",
@@ -2491,13 +2491,13 @@
         "AdditionalHash":  "241 137 99 81 67 76 43 134 0 4 92 51 199 73 76 248 204 141 111 15 51 121 155 48 169 169 178 150 24 217 207 73",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "40401828-89d0-437f-90c3-71f62bac118d",
+        "OSDGuid":  "09a04770-fae7-452c-bef7-ab435a6f9924",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "40401828-89d0-437f-90c3-71f62bac118d"
+        "RowKey":  "09a04770-fae7-452c-bef7-ab435a6f9924"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "20H2",
@@ -2543,13 +2543,13 @@
         "AdditionalHash":  "206 230 38 140 233 98 126 53 108 131 199 210 3 166 80 199 40 82 206 184 147 217 0 138 151 125 142 194 95 204 237 24",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "20c23fb7-1c53-4533-9c2e-289ec82f6f9a",
+        "OSDGuid":  "988a0ae2-3389-4fd6-8638-b611dd3c94b7",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "20c23fb7-1c53-4533-9c2e-289ec82f6f9a"
+        "RowKey":  "988a0ae2-3389-4fd6-8638-b611dd3c94b7"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1809",
@@ -2595,13 +2595,13 @@
         "AdditionalHash":  "9 118 28 16 138 95 173 220 114 12 210 85 4 95 114 162 220 72 102 252 20 238 18 221 88 157 143 243 204 177 111 131",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "dddb5ddf-db5b-4407-84cc-47f553a22d24",
+        "OSDGuid":  "8cb38ce6-9560-4e57-a252-c2196393402f",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "dddb5ddf-db5b-4407-84cc-47f553a22d24"
+        "RowKey":  "8cb38ce6-9560-4e57-a252-c2196393402f"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1809",
@@ -2647,13 +2647,13 @@
         "AdditionalHash":  "75 139 176 62 36 57 224 50 148 201 233 103 148 25 221 91 166 149 161 236 82 50 123 174 219 71 137 114 73 136 152 85",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "6e7caa9a-fc22-4a1a-985f-431d5700ac85",
+        "OSDGuid":  "c66b4b2a-cbdf-46f4-88fe-dbd764b0b58d",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "6e7caa9a-fc22-4a1a-985f-431d5700ac85"
+        "RowKey":  "c66b4b2a-cbdf-46f4-88fe-dbd764b0b58d"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1809",
@@ -2699,13 +2699,13 @@
         "AdditionalHash":  "56 101 14 198 184 148 208 38 171 182 136 69 29 7 16 16 171 234 178 168 8 27 153 172 227 195 159 255 228 140 90 231",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "26e95be8-a183-4627-93d2-fd7f7a42f51b",
+        "OSDGuid":  "17e65424-85a3-406b-a413-c7b9978beb3a",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "26e95be8-a183-4627-93d2-fd7f7a42f51b"
+        "RowKey":  "17e65424-85a3-406b-a413-c7b9978beb3a"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "1809",
@@ -2751,13 +2751,13 @@
         "AdditionalHash":  "205 174 102 28 39 220 33 237 162 34 211 89 49 154 233 249 223 54 236 11 232 39 84 248 23 1 147 32 238 119 60 115",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "2b67a368-c3ca-4fbe-b565-19717128e568",
+        "OSDGuid":  "3bf24144-1772-41c9-8b69-87762c93d5e4",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "2b67a368-c3ca-4fbe-b565-19717128e568"
+        "RowKey":  "3bf24144-1772-41c9-8b69-87762c93d5e4"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "22H2",
@@ -2803,13 +2803,13 @@
         "AdditionalHash":  "68 113 0 82 108 101 104 254 170 177 234 88 154 55 187 153 160 10 85 136 109 168 230 222 240 207 171 197 139 118 58 212",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "7b8705b4-1c06-4fcf-a43b-7825808a50f5",
+        "OSDGuid":  "e2f2f26e-6caa-48f3-8a59-53346dd899b8",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "7b8705b4-1c06-4fcf-a43b-7825808a50f5"
+        "RowKey":  "e2f2f26e-6caa-48f3-8a59-53346dd899b8"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "22H2",
@@ -2855,13 +2855,13 @@
         "AdditionalHash":  "50 61 178 110 157 108 115 106 140 59 17 166 231 65 50 57 79 98 50 166 0 240 175 64 78 247 93 144 169 235 150 126",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "019b1861-1e2d-4e9b-a3e8-b9e2df4dc330",
+        "OSDGuid":  "65f79b51-d104-468c-9c8c-0dbb78f0d98e",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "019b1861-1e2d-4e9b-a3e8-b9e2df4dc330"
+        "RowKey":  "65f79b51-d104-468c-9c8c-0dbb78f0d98e"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "22H2",
@@ -2907,13 +2907,13 @@
         "AdditionalHash":  "141 6 29 108 50 36 124 106 12 43 149 91 5 60 249 10 87 156 0 6 167 36 102 83 192 148 234 181 128 194 209 167",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "0c71c4f7-988a-4e35-a0ac-e3b457ab503d",
+        "OSDGuid":  "af673020-c527-4d13-9df2-7155260ab14c",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "0c71c4f7-988a-4e35-a0ac-e3b457ab503d"
+        "RowKey":  "af673020-c527-4d13-9df2-7155260ab14c"
     },
     {
         "Catalog":  "Windows 10 Dynamic Update",
-        "OSDVersion":  "23.11.19.1",
+        "OSDVersion":  "23.12.18.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows 10",
         "UpdateBuild":  "22H2",
@@ -2959,8 +2959,8 @@
         "AdditionalHash":  "91 83 5 79 89 45 247 85 167 109 58 252 120 134 72 111 58 99 36 167 30 189 79 162 251 97 206 151 118 103 219 180",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "d514c566-b8ae-4a40-90f5-09d22818619f",
+        "OSDGuid":  "8cb8926c-9332-4d78-ba5a-eb47100bad83",
         "PartitionKey":  "Windows 10 Dynamic Update",
-        "RowKey":  "d514c566-b8ae-4a40-90f5-09d22818619f"
+        "RowKey":  "8cb8926c-9332-4d78-ba5a-eb47100bad83"
     }
 ]
