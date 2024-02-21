@@ -14,7 +14,7 @@
         "UpdateId":  "111192bf-4d32-40c7-bdc7-3e8761122147",
         "LegacyName":  "KB5034765-WindowsSV22H2-RTM-UnifiedCumulativeSecurity-X64-TSL-World",
         "Type":  "SelfContained",
-        "FileName":  "Windows10.0-KB5034765-x64.cab",
+        "FileName":  "windows11.0-kb5034765-x64.msu",
         "Size":  679933315,
         "CompanyTitles":  "Microsoft",
         "ProductFamilyTitles":  "Windows",
