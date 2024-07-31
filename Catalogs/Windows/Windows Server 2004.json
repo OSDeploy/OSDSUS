@@ -1,7 +1,7 @@
 [
     {
         "Catalog":  "Windows Server 2004",
-        "OSDVersion":  "24.6.18.1",
+        "OSDVersion":  "24.7.31.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "2004",
@@ -47,13 +47,13 @@
         "AdditionalHash":  "108 220 103 147 116 237 87 78 187 110 195 94 148 87 228 27 44 70 93 35 135 86 208 159 35 176 202 31 58 173 76 200",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "9841be71-2e8e-4560-ad0b-898a064a7fe8",
+        "OSDGuid":  "128e6517-20d4-4411-be37-7350fc88efee",
         "PartitionKey":  "Windows Server 2004",
-        "RowKey":  "9841be71-2e8e-4560-ad0b-898a064a7fe8"
+        "RowKey":  "128e6517-20d4-4411-be37-7350fc88efee"
     },
     {
         "Catalog":  "Windows Server 2004",
-        "OSDVersion":  "24.6.18.1",
+        "OSDVersion":  "24.7.31.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "2004",
@@ -99,13 +99,13 @@
         "AdditionalHash":  "179 64 249 81 34 121 67 177 208 232 26 96 32 53 5 52 61 81 131 88 41 113 0 249 218 140 155 56 25 105 62 170",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "d238a94e-c132-4ab2-94a6-6e1a3bc812a3",
+        "OSDGuid":  "f0a932ec-ed2f-4d43-a424-fe2c1f5f994d",
         "PartitionKey":  "Windows Server 2004",
-        "RowKey":  "d238a94e-c132-4ab2-94a6-6e1a3bc812a3"
+        "RowKey":  "f0a932ec-ed2f-4d43-a424-fe2c1f5f994d"
     },
     {
         "Catalog":  "Windows Server 2004",
-        "OSDVersion":  "24.6.18.1",
+        "OSDVersion":  "24.7.31.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "2004",
@@ -151,13 +151,13 @@
         "AdditionalHash":  "96 156 71 36 185 226 110 196 197 200 188 241 190 182 26 133 157 191 52 10 163 248 110 29 62 138 127 201 40 16 124 97",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "1c0e5d56-165b-4f94-97c9-5c1e3b03ce7c",
+        "OSDGuid":  "3fc78a43-e798-4723-92dd-926cf49ff9d6",
         "PartitionKey":  "Windows Server 2004",
-        "RowKey":  "1c0e5d56-165b-4f94-97c9-5c1e3b03ce7c"
+        "RowKey":  "3fc78a43-e798-4723-92dd-926cf49ff9d6"
     },
     {
         "Catalog":  "Windows Server 2004",
-        "OSDVersion":  "24.6.18.1",
+        "OSDVersion":  "24.7.31.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "2004",
@@ -203,13 +203,13 @@
         "AdditionalHash":  "89 182 148 163 5 79 30 154 106 201 31 87 1 240 43 143 219 6 67 105 111 57 44 226 230 44 246 198 191 104 123 153",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "2f8bf49c-66b1-472d-8419-77afbc975f15",
+        "OSDGuid":  "01780f48-16fd-4047-8923-7d67d0c965ce",
         "PartitionKey":  "Windows Server 2004",
-        "RowKey":  "2f8bf49c-66b1-472d-8419-77afbc975f15"
+        "RowKey":  "01780f48-16fd-4047-8923-7d67d0c965ce"
     },
     {
         "Catalog":  "Windows Server 2004",
-        "OSDVersion":  "24.6.18.1",
+        "OSDVersion":  "24.7.31.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "2004",
@@ -255,13 +255,13 @@
         "AdditionalHash":  "105 149 50 78 234 243 222 76 117 96 156 226 38 135 72 99 236 246 105 212 119 48 40 43 79 233 162 92 212 190 240 76",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "d9b517df-d2a5-4cde-ae9d-cc2ad67c39ac",
+        "OSDGuid":  "b34e1d36-496c-4101-9149-606ceb445704",
         "PartitionKey":  "Windows Server 2004",
-        "RowKey":  "d9b517df-d2a5-4cde-ae9d-cc2ad67c39ac"
+        "RowKey":  "b34e1d36-496c-4101-9149-606ceb445704"
     },
     {
         "Catalog":  "Windows Server 2004",
-        "OSDVersion":  "24.6.18.1",
+        "OSDVersion":  "24.7.31.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "2004",
@@ -307,13 +307,13 @@
         "AdditionalHash":  "82 36 173 110 141 157 46 145 171 222 203 216 195 166 161 41 193 234 1 180 52 216 52 28 135 49 151 168 99 186 83 174",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "d02da319-24a4-4aa4-ba67-297c8dbabca8",
+        "OSDGuid":  "a3c4c6e5-b0e4-42e0-9ec8-3a87d51f8a7b",
         "PartitionKey":  "Windows Server 2004",
-        "RowKey":  "d02da319-24a4-4aa4-ba67-297c8dbabca8"
+        "RowKey":  "a3c4c6e5-b0e4-42e0-9ec8-3a87d51f8a7b"
     },
     {
         "Catalog":  "Windows Server 2004",
-        "OSDVersion":  "24.6.18.1",
+        "OSDVersion":  "24.7.31.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "2004",
@@ -359,13 +359,13 @@
         "AdditionalHash":  "34 237 203 33 137 199 254 36 147 159 14 246 91 56 190 88 132 242 122 188 161 129 127 194 5 134 224 171 89 1 12 86",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "34a771c2-4d76-4ade-a874-800d0282d66b",
+        "OSDGuid":  "b423ef78-2e06-4239-803c-6bb6f04a77b8",
         "PartitionKey":  "Windows Server 2004",
-        "RowKey":  "34a771c2-4d76-4ade-a874-800d0282d66b"
+        "RowKey":  "b423ef78-2e06-4239-803c-6bb6f04a77b8"
     },
     {
         "Catalog":  "Windows Server 2004",
-        "OSDVersion":  "24.6.18.1",
+        "OSDVersion":  "24.7.31.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "2004",
@@ -411,8 +411,8 @@
         "AdditionalHash":  "61 193 129 85 205 84 254 61 160 177 149 104 177 213 223 127 182 181 200 129 150 106 218 168 225 20 95 252 246 89 58 83",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "e7d354df-d751-4e92-8c4d-8805f05e2f48",
+        "OSDGuid":  "9df45389-34c8-4535-b520-4e6afebd31ba",
         "PartitionKey":  "Windows Server 2004",
-        "RowKey":  "e7d354df-d751-4e92-8c4d-8805f05e2f48"
+        "RowKey":  "9df45389-34c8-4535-b520-4e6afebd31ba"
     }
 ]
