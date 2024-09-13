@@ -1,7 +1,7 @@
 [
     {
         "Catalog":  "Windows Server 22H2",
-        "OSDVersion":  "24.9.6.1",
+        "OSDVersion":  "24.9.13.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "22H2",
@@ -47,13 +47,13 @@
         "AdditionalHash":  "203 106 122 7 110 247 113 14 186 18 89 105 113 172 236 233 73 165 234 24 171 199 107 144 91 203 58 218 116 28 117 243",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "574449f2-5d80-4b14-bc5f-6e00b5df9720",
+        "OSDGuid":  "012220cd-7d2c-43f7-ab0c-a710845b2c23",
         "PartitionKey":  "Windows Server 22H2",
-        "RowKey":  "574449f2-5d80-4b14-bc5f-6e00b5df9720"
+        "RowKey":  "012220cd-7d2c-43f7-ab0c-a710845b2c23"
     },
     {
         "Catalog":  "Windows Server 22H2",
-        "OSDVersion":  "24.9.6.1",
+        "OSDVersion":  "24.9.13.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "22H2",
@@ -99,13 +99,13 @@
         "AdditionalHash":  "45 237 12 142 223 219 213 196 206 251 167 123 42 128 202 49 84 206 113 241 84 88 16 56 24 79 203 67 151 31 119 146",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "49989691-8086-4933-872c-407f5f97d68a",
+        "OSDGuid":  "503dfe43-02a4-4543-8aa7-f545e6132094",
         "PartitionKey":  "Windows Server 22H2",
-        "RowKey":  "49989691-8086-4933-872c-407f5f97d68a"
+        "RowKey":  "503dfe43-02a4-4543-8aa7-f545e6132094"
     },
     {
         "Catalog":  "Windows Server 22H2",
-        "OSDVersion":  "24.9.6.1",
+        "OSDVersion":  "24.9.13.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "22H2",
@@ -151,13 +151,13 @@
         "AdditionalHash":  "11 238 122 194 155 89 12 85 22 106 60 102 70 68 123 121 26 164 105 179 105 58 162 73 156 165 196 241 122 110 87 226",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "0580b3a7-9999-4c15-bab4-8af2c5b6462e",
+        "OSDGuid":  "d94198ab-d3dc-458a-842e-c055fbb854b0",
         "PartitionKey":  "Windows Server 22H2",
-        "RowKey":  "0580b3a7-9999-4c15-bab4-8af2c5b6462e"
+        "RowKey":  "d94198ab-d3dc-458a-842e-c055fbb854b0"
     },
     {
         "Catalog":  "Windows Server 22H2",
-        "OSDVersion":  "24.9.6.1",
+        "OSDVersion":  "24.9.13.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "22H2",
@@ -203,27 +203,27 @@
         "AdditionalHash":  "30 100 39 202 60 184 66 98 131 127 93 17 63 243 110 158 115 133 109 105 169 195 87 55 76 1 175 132 227 227 21 3",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "82f02da0-5617-4ef0-8247-b00b3adee132",
+        "OSDGuid":  "263d7e00-9c43-47e3-bb7c-27ec34a0efd9",
         "PartitionKey":  "Windows Server 22H2",
-        "RowKey":  "82f02da0-5617-4ef0-8247-b00b3adee132"
+        "RowKey":  "263d7e00-9c43-47e3-bb7c-27ec34a0efd9"
     },
     {
         "Catalog":  "Windows Server 22H2",
-        "OSDVersion":  "24.9.6.1",
+        "OSDVersion":  "24.9.13.1",
         "OSDStatus":  "",
         "UpdateOS":  "Windows Server",
         "UpdateBuild":  "22H2",
         "UpdateArch":  "x64",
         "UpdateGroup":  "LCU",
-        "CreationDate":  "\/Date(1723568406000)\/",
-        "KBNumber":  "5041160",
-        "FileKBNumber":  "5041160",
-        "Title":  "2024-08 Cumulative Update for Microsoft server operating system version 22H2 for x64-based Systems (KB5041160)",
-        "UpdateId":  "623fd794-da2d-4b46-92a1-652545a272e8",
-        "LegacyName":  "KB5041160-ASZOS22H2-RTM-UnifiedCumulativeSecurity-X64-TSL-World",
+        "CreationDate":  "\/Date(1725987607000)\/",
+        "KBNumber":  "5042881",
+        "FileKBNumber":  "5042881",
+        "Title":  "2024-09 Cumulative Update for Microsoft server operating system version 22H2 for x64-based Systems (KB5042881)",
+        "UpdateId":  "e3b71896-4ab1-49da-a729-887c1fef7cf6",
+        "LegacyName":  "KB5042881-ASZOS22H2-RTM-UnifiedCumulativeSecurity-X64-TSL-World",
         "Type":  "SelfContained",
-        "FileName":  "Windows10.0-KB5041160-x64.cab",
-        "Size":  373471138,
+        "FileName":  "Windows10.0-KB5042881-x64.cab",
+        "Size":  376668446,
         "CompanyTitles":  "Microsoft",
         "ProductFamilyTitles":  "Windows",
         "Category":  "Microsoft Server Operating System-22H2",
@@ -246,17 +246,17 @@
         "IsWsusInfrastructureUpdate":  false,
         "IsEditable":  false,
         "UpdateSource":  "MicrosoftUpdate",
-        "AdditionalInformationUrls":  "https://support.microsoft.com/help/5041160",
+        "AdditionalInformationUrls":  "https://support.microsoft.com/help/5042881",
         "Description":  "Install this update to resolve issues in Windows. For a complete listing of the issues that are included in this update, see the associated Microsoft Knowledge Base article for more information. After you install this item, you may have to restart your computer.",
         "ReleaseNotes":  "",
-        "FileUri":  "http://download.windowsupdate.com/d/msdownload/update/software/secu/2024/08/windows10.0-kb5041160-x64_cf87558fa78179858fd38333e49a61563c104b87.cab",
-        "OriginUri":  "http://download.windowsupdate.com/d/msdownload/update/software/secu/2024/08/windows10.0-kb5041160-x64_cf87558fa78179858fd38333e49a61563c104b87.cab",
-        "Hash":  "207 135 85 143 167 129 121 133 143 211 131 51 228 154 97 86 60 16 75 135",
-        "AdditionalHash":  "209 180 4 121 209 124 135 172 98 179 65 163 173 80 22 157 228 129 53 98 81 247 128 191 166 227 120 43 194 1 168 238",
+        "FileUri":  "http://download.windowsupdate.com/c/msdownload/update/software/secu/2024/09/windows10.0-kb5042881-x64_8df3cf57ac2b0fbf0675d94984020a6168e01830.cab",
+        "OriginUri":  "http://download.windowsupdate.com/c/msdownload/update/software/secu/2024/09/windows10.0-kb5042881-x64_8df3cf57ac2b0fbf0675d94984020a6168e01830.cab",
+        "Hash":  "141 243 207 87 172 43 15 191 6 117 217 73 132 2 10 97 104 224 24 48",
+        "AdditionalHash":  "221 36 73 11 11 58 169 51 216 102 23 120 159 1 106 79 173 199 101 164 18 78 25 184 222 188 164 14 158 42 156 174",
         "OSDCore":  "",
         "OSDWinPE":  "",
-        "OSDGuid":  "00cd83a9-5005-4f3c-883c-08a6a779e6e5",
+        "OSDGuid":  "d30128b5-1196-4085-925d-c5cf46f19f73",
         "PartitionKey":  "Windows Server 22H2",
-        "RowKey":  "00cd83a9-5005-4f3c-883c-08a6a779e6e5"
+        "RowKey":  "d30128b5-1196-4085-925d-c5cf46f19f73"
     }
 ]
